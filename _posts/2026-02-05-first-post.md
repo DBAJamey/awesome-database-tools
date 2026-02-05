@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "My First Post"
+description: "My first description"
 date: 2026-02-05
 ---
 
