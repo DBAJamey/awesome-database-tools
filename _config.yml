@@ -1,0 +1,5 @@
+title: Awesome Database Tools
+description: A simple Jekyll blog showcasing database tools
+baseurl: "" 
+url: "https://dbajamey.github.io/awesome-database-tools"
+theme: cayman
