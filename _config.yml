@@ -7,5 +7,6 @@ title: Awesome Database Tools
 description: This blog showcases useful database tools and tips
 show_downloads: false
 google_analytics: G-L4DG3DFCXN
+url: "https://dbajamey.github.io"
 baseurl: "/awesome-database-tools"
 permalink: /:title/
