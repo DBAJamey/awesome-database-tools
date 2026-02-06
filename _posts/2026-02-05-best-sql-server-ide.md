@@ -109,9 +109,102 @@ A free 30-day trial is available via the download page if you need to evaluate t
 
 ### 2. DataGrip
 
+![DataGrip](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/datagrip--logo.png)
+* **Company:** JetBrains 
+* **Platforms:** Windows, macOS and Linux 
+
+DataGrip is a cross-platform SQL IDE designed for developers who work across multiple database engines and want a consistent environment on Windows, macOS, and Linux. For SQL Server workloads, it provides a capable SQL editor with inspections, schema-aware completion, and reliable database introspection. 
+
+The tradeoff is depth. While DataGrip handles query development well, its performance analysis and troubleshooting capabilities are more general-purpose. Tasks such as detailed query profiling, SQL Server–specific diagnostics, and schema synchronization typically require additional tooling when compared to SQL Server–focused IDEs. 
+
+![DataGrip IDE showing SQL inspections settings, highlighting schema-aware analysis and editor warnings for SQL code](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/datagrip-scr.png)
+
+#### Pros 
+
+* Provides a consistent, cross-platform SQL development experience across Windows, macOS, and Linux. 
+* Offers strong editor ergonomics for developers writing SQL across multiple database systems. 
+
+#### Cons 
+
+* SQL Server–specific diagnostics and profiling are limited compared to SQL Server–first IDEs 
+
+#### Features 
+
+* SQL dialect support, including Microsoft SQL Server 
+* Smart completion, inspections, and schema-aware editing 
+
+#### Price 
+
+* Subscription-based pricing starting at approximately $25.90 per month for commercial use, with a free trial available. 
+
 ### 3. Microsoft SQL Server Management Studio (SSMS)
 
+![SSMS](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/ssms--logo.png)
+* **Company:** Microsoft 
+* **Platforms:** Windows only 
+
+SQL Server Management Studio (SSMS) is the default Microsoft SQL Server IDE for many Windows-based teams. It is the primary environment for security management, maintenance tasks, and core operational troubleshooting. 
+
+SSMS continues to receive incremental updates, including features such as GitHub Copilot integration. However, its role has not fundamentally changed. As an MS SQL Server IDE, SSMS remains administration-first rather than a full development or delivery environment. It excels at operating SQL Server but provides limited support for schema comparison, automation, or deployment-oriented workflows.
+
+![SQL Server Management Studio showing Object Explorer linked to a T-SQL query, illustrating native SQL Server administration and query execution](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/ssms-scr.png)
+
+#### Pros 
+
+* Best-in-class “native” admin experience for SQL Server on Windows. 
+* Continues to add modern features (e.g., Copilot preview and new indexing options in SSMS 22 release notes). 
+
+#### Cons 
+
+* Windows-only, which limits use in mixed OS teams 
+* Minimal support for schema comparison, automation, and change workflows
+
+#### Features 
+
+* T-SQL editor with execution plan support. 
+* Core administration and operational management tools.
+* Built-in monitoring for day-to-day operations.
+* Ongoing updates, including Copilot features. 
+
+#### Price 
+
+* Free (Microsoft-provided tool; standard installation and system requirements apply). 
+
 ### 4. DBeaver
+
+![DBeaver](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbeaver-logo.png)
+* **Company:** DBeaver Corp 
+* **Platforms:** Windows, macOS and Linux 
+
+DBeaver is a universal database client designed for teams that work across many database platforms and want a single, cross-platform tool for everyday querying and data access. It runs consistently on Windows, macOS, and Linux and is commonly used in heterogeneous environments where SQL Server is only one of several systems in use. 
+
+For SQL Server workloads, DBeaver operates through its driver layer rather than native SQL Server tooling. This makes it reliable for standard querying, data browsing, and basic schema inspection, but less suited to SQL Server–specific tasks such as performance profiling, schema synchronization, or deployment-oriented workflows. 
+
+![DBeaver database client showing SQL editor and results grid, illustrating cross-platform querying and data browsing](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbeaver-scr.png)
+
+#### Pros 
+
+* Consistent cross-platform experience across Windows, macOS, and Linux.
+* Broad database coverage through flexible, driver-based connectivity. 
+
+#### Cons 
+
+* Limited SQL Server–specific diagnostics and change management capabilities. 
+* Advanced workflows typically require additional tools or a dedicated SQL Server IDE. 
+
+#### Features 
+
+* SQL Server connectivity via supported drivers. 
+* Standard SQL editing, data browsing, and schema inspection. 
+* Community and commercial editions with optional enterprise features. 
+
+#### Price 
+
+* **Community:** Free 
+* **Lite:** $11 / month 
+* **Enterprise:** $25 / month 
+
+To see how these tools stack up side by side, the following table summarizes their strengths and trade-offs. 
 
 ## SQL Server IDE comparison table (2026)
 
