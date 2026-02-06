@@ -5,5 +5,6 @@ description: "This article compares the best SQL Server IDEs in 2026 based on re
 date: 2026-02-05
 ---
 
-[List of posts](./awesome-database-tools/).
+[Back to the list of posts]({{ site.baseurl }}/)
+
 
