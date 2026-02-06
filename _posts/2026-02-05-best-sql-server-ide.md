@@ -248,3 +248,5 @@ By contrast, teams focused primarily on administration and baseline management m
 Next step: If you’re considering a full SQL Server IDE, the most reliable way to decide is hands-on evaluation. Test it against real work: profile a slow query, compare schemas, and walk through a deployment scenario.  
 
 [Download](https://www.devart.com/dbforge/sql/studio/download.html) dbForge Studio for SQL Server and evaluate it against a real SQL Server workload using the free trial. 
+
+[Back to the list of posts]({{ site.baseurl }}/)
