@@ -69,7 +69,7 @@ For those looking for a complete, end-to-end SQL Server IDE, dbForge Studio for 
 
 ### 1. dbForge Studio for SQL Server
 
-![dbForge Studio for SQL Server](({{ site.baseurl }}/assets/images/1dbforge-sql-studio.png))
+![dbForge Studio for SQL Server](https://github.com/DBAJamey/awesome-database-tools/blob/e205e507d1b4ad1298484a6e536317804cec55f1/assets/images/1dbforge-sql-studio.png)
 * **Company:** Devart 
 * **Platforms:** Windows (native), macOS and Linux via compatibility solutions(e.g., virtual machines or CrossOver Wine-based setups)
 
@@ -77,7 +77,7 @@ dbForge Studio for SQL Server is a full SQL Server IDE designed for teams that d
 
 The IDE is particularly suited to workflows where schema drift, performance regressions, and deployment consistency are recurring concerns. It supports modern SQL Server versions, including SQL Server 2025, and common deployment targets such as Azure SQL and Amazon RDS for SQL Server. 
 
-![dbForge Studio for SQL Server with Query Profiler enabled, showing integrated SQL development and performance diagnostics](https://github.com/DBAJamey/awesome-database-tools/blob/main/assets/images/1dbforge%20scr.png)
+![dbForge Studio for SQL Server with Query Profiler enabled, showing integrated SQL development and performance diagnostics](https://github.com/DBAJamey/awesome-database-tools/blob/e205e507d1b4ad1298484a6e536317804cec55f1/assets/images/dbforge-scr.png)
 
 #### Pros 
 
