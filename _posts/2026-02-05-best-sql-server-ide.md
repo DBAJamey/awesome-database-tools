@@ -69,7 +69,7 @@ For those looking for a complete, end-to-end SQL Server IDE, dbForge Studio for 
 
 ### 1. dbForge Studio for SQL Server
 
-![dbForge Studio for SQL Server](https://github.com/DBAJamey/awesome-database-tools/blob/main/assets/images/1dbforge-sql-studio.png)
+![dbForge Studio for SQL Server](({{ site.baseurl }}/assets/images/1dbforge-sql-studio.png))
 * **Company:** Devart 
 * **Platforms:** Windows (native), macOS and Linux via compatibility solutions(e.g., virtual machines or CrossOver Wine-based setups)
 
