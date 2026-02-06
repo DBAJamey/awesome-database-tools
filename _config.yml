@@ -6,4 +6,4 @@ description: This blog showcases useful database tools and tips
 show_downloads: false
 google_analytics: [Your Google Analytics tracking ID]
 baseurl: "/awesome-database-tools"
-permalink: /:title/
+permalink: /blog/:title/
