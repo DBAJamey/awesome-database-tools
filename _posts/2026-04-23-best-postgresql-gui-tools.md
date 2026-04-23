@@ -61,7 +61,7 @@ Based on the evaluation criteria we just covered, this comparison table highligh
 | TablePlus | Lightweight database access | AI via plugins/integrations | Fast editor, inline editing, schema browsing | Very easy | From $99/license |
 | Beekeeper Studio | Modern developer workflows | AI SQL generation (LLMs) | Clean editor, saved queries, exports | Easy | Free / From $18/month |
 | DbVisualizer | Stable enterprise querying | Built-in AI (latest versions) | Visual plans, ER diagrams, query tools | Moderate | Free / From $199/year |
-| DbGate | Open-source simplicity | AI Database Chat | Basic editor, data tools | Easy | Free / From $12/month |
+| DbGate | Open-source simplicity | Limited AI integrations  | Basic editor, data tools | Easy | Free / From $12/month |
  
 Now that you've seen the PostgreSQL GUI tools comparison, let's look closer at the best PostgreSQL GUI clients with AI in 2026, and what makes each one stand out.
  
