@@ -75,6 +75,8 @@ In this section, we dive deeper. We'll break down each PostgreSQL GUI tool, expl
 
 ![dbForge Studio for PostgreSQL](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbforge-postgresql_postgresql_ai.png)
 
+![dbForge Studio for PostgreSQL](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/1dbforge-postgresql_postgresql_ai.png)
+
 **Company:** Devart  
 **AI capabilities:** SQL generation, query explanation, optimization assistance  
 **Supported platforms:** Windows-first; macOS and Linux via compatibility solutions (Wine, CrossOver, Parallels)
