@@ -351,7 +351,7 @@ Free version available with limitations. Paid license starts at **$99 per licens
 **AI capabilities:** AI Shell with natural language SQL generation (GPT, Claude, Gemini), schema-aware assistance  
 **Supported platforms:** Windows, macOS, Linux
  
-Beekeeper Studio is a modern PostgreSQL GUI built around an AI-first workflow. Its standout feature is the AI Shell, which lets users generate SQL queries from natural language prompts using models like GPT-4, Claude, Gemini, and local LLMs.
+Beekeeper Studio is a modern PostgreSQL GUI built around an AI-first workflow. Its standout feature is the AI Shell, which lets users generate SQL queries from natural language prompts using models like GPT-5, Claude, Gemini, and local LLMs.
  
 What makes it different is context awareness. The AI can reference your database schema, which improves accuracy when generating queries and reduces the need for manual corrections. Combined with a clean interface, it creates a faster, more intuitive way to work with PostgreSQL.
  
