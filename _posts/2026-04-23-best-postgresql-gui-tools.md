@@ -70,3 +70,48 @@ Now that you've seen the PostgreSQL GUI tools comparison, let's look closer at t
 In this section, we dive deeper. We'll break down each PostgreSQL GUI tool, exploring their standout features, AI strengths, ideal use cases, and how they fit into real PostgreSQL workflows.
  
 ### 1. dbForge Studio for PostgreSQL + dbForge AI Assistant
+
+⭐ 4.3/5 (G2)
+
+![dbForge Studio for PostgreSQL](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbforge-postgresql_postgresql_ai.png)
+
+**Company:** Devart  
+**AI capabilities:** SQL generation, query explanation, optimization assistance  
+**Supported platforms:** Windows-first; macOS and Linux via compatibility solutions (Wine, CrossOver, Parallels)
+ 
+dbForge Studio for PostgreSQL is a full-featured GUI designed for database development, administration, and analysis. It combines advanced SQL tooling with an integrated AI assistant that helps generate queries, explain logic, and optimize performance.
+ 
+The platform is built for structured PostgreSQL workflows. Instead of manually writing and debugging queries, users can rely on AI-assisted generation, visual tools, and performance analysis to move faster with fewer errors.
+ 
+#### Team and Project Fit
+ 
+| Scenario | Fit |
+|----------|-----|
+| Large, complex PostgreSQL databases | Strong fit |
+| Cross-database (multi-DBMS) environments | Limited fit |
+| AI-assisted SQL generation and optimization | Strong fit |
+| Ease of use for beginners | Moderate fit |
+| Rapid, lightweight query tasks | Less suitable |
+ 
+#### Key Features
+ 
+- AI-powered SQL generation and query explanation.
+- Query profiler with execution plan analysis.
+- Data & schema comparison and synchronization.
+- Data import/export from/to 10+ file formats.
+- Advanced SQL editor with autocomplete and formatting.
+- Support for PostgreSQL on-premises and cloud services (Amazon Redshift, RDS, Aurora; Google Cloud; Azure Database; Supabase, etc.).
+#### Pros
+ 
+- Strong PostgreSQL-focused feature set.
+- Built-in AI assistant improves query workflows.
+- Structured interface for complex database work.
+#### Cons
+ 
+- Windows-first environment.
+- Steeper learning curve for beginners.
+#### Pricing
+ 
+Free Express Edition available. Paid plans start at **$89.95/year**.
+ 
+[**Learn more**](https://www.devart.com/dbforge/postgresql/studio/)
