@@ -208,17 +208,20 @@ The Community version covers most core workflows, while the Pro edition adds AI 
 - Visual ER diagrams and data modeling tools.
 - Multi-database connectivity across 100+ systems.
 - Extensions and plugin support for added functionality.
+
 #### Pros
  
 - Strong free Community Edition.
 - Excellent multi-database support.
 - Flexible and extensible through plugins.
 - Active community and regular updates.
+
 #### Cons
  
 - The interface can feel cluttered with many features.
 - AI capabilities are limited in the free version.
 - Performance may slow with very large datasets.
+
 #### Pricing
  
 Free Community Edition available. Pro version starts at **$12/month** ($113/year) per license.
