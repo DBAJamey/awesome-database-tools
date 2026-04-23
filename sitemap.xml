@@ -6,14 +6,14 @@ layout: null
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   {% for page in site.pages %}
-  {% if page.sitemap != false and page.url != "/sitemap.xml" %}
+  {% unless page.url contains '.css' or page.url contains '.txt' or page.url contains '.xml' or page.url contains '.js' %}
   <url>
     <loc>{{ site.url }}{{ site.baseurl }}{{ page.url }}</loc>
     {% if page.date %}
     <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
     {% endif %}
   </url>
-  {% endif %}
+  {% endunless %}
   {% endfor %}
   {% for post in site.posts %}
   <url>
