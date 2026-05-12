@@ -54,13 +54,6 @@ Comprehensive toolset for accelerating MySQL and MariaDB development, with advan
 ### Why beginners love it: 
 Clean UI, drag-and-drop query building, syntax suggestions, and visual tools that remove the need to memorize complex SQL queries. Plus, the availability of the free Express Edition after a 30-day full-featured trial.
 
-### AI Features (2025):
-- **Natural Language to SQL**: Convert plain English descriptions into optimized SQL queries
-- **AI Query Assistant**: Auto-generates, explains, fixes, and optimizes queries
-- **Smart Error Detection**: AI analyzes errors and provides recommendations
-- **Online Search Integration**: AI Chat scans web for extended answers beyond pre-trained data
-- **Live Response Streaming**: See AI responses as they're generated
-
 ---
 
 ## 2. MySQL Workbench — Reliable, But Rusty 
