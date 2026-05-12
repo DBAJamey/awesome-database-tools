@@ -45,9 +45,8 @@ dbForge Studio delivers:
 - Visual query builder for those who hate memorizing JOINs 
 - Schema compare and data sync tools that cut your deployment time in half 
 - Debugger, code completion, profiling, version control — it's all here 
-- Works with MySQL, MariaDB, Percona, Amazon RDS, Aurora, and more 
-- **AI-Powered Features** (new in 2025)
-- **Advanced cloud support** for modern database infrastructure
+- Works with MySQL, MariaDB, Percona, HeatWave, and multiple cloud services such as Amazon RDS, Amazon Aurora, Azure Database for MySQL, Google Cloud, Alibaba Cloud, and more
+- AI-Powered Features
 
 ### Why pros love it: 
 Comprehensive toolset for accelerating MySQL and MariaDB development, with advanced code highlighting, smart syntax completion, reusable code snippets, and formatting profiles that enforce clean, consistent, production-ready code — all in a single MySQL IDE. Plus, the 2025.2 update delivers powerful AI-driven features with context-aware query generation, conversion of natural language to SQL, query optimization, and integrated AI Chat for error analysis and recommendations.
