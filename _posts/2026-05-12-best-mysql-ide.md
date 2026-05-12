@@ -143,16 +143,15 @@ Straightforward interface, minimal configuration, and perfect for experimenting 
 
 | Feature | dbForge Studio | MySQL Workbench | DBeaver | DataGrip | HeidiSQL |
 |---------|-----------------|-----------------|---------|----------|----------|
-| **Cost** | Paid ($9.95/mo+) | Free | Free | Paid (~$12/mo) | Free |
+| **Cost** | Free / Paid ($9.95/mo+) | Free | Free / Paid ($12/mo+) | Paid ($10.9/mo+) | Free |
 | **MySQL Support** | ✅ Excellent | ✅ Official | ✅ Good | ✅ Good | ✅ Basic |
-| **Multi-Database Support** | ❌ MySQL-focused | ❌ Limited | ✅ 30+ Databases | ✅ Many DBs | ❌ Limited |
-| **AI Assistant** | ✅ Yes (2025+) | ❌ No | ✅ Pro Version | ✅ Yes | ❌ No |
-| **Visual Query Builder** | ✅ Full-featured | ✅ Included | ✅ Yes | ✅ Yes | ❌ No |
-| **Debugger** | ✅ Advanced | ✅ Basic | ✅ Yes | ✅ Yes | ❌ No |
-| **Schema Compare** | ✅ Powerful | ✅ Built-in | ✅ Yes | ✅ Yes | ✅ Basic |
-| **Performance Profiler** | ✅ Advanced | ✅ Basic | ✅ Yes | ✅ Yes | ❌ No |
-| **Cloud Databases (RDS/Aurora)** | ✅ Full Support | ✅ Limited | ✅ Supported | ✅ Supported | ❌ No |
-| **Version Control Integration** | ✅ Git, SVN, etc. | ❌ Limited | ✅ Built-in | ✅ Built-in | ❌ Basic |
+| **Multi-Database Support** | ❌ MySQL-focused (For multiDB try [dbForge Edge](https://www.devart.com/dbforge/edge/)) | ❌ Limited | ✅ 30+ Databases | ✅ Many DBs | ❌ Limited |
+| **AI Assistant** | ✅ Yes | ❌ No | ✅ Yes | ✅ Yes | ❌ No |
+| **Visual Query Builder** | ✅ Full-featured | ❌ No | ✅ Basic | ❌ No | ❌ No |
+| **Debugger** | ✅ Advanced | ❌ No | ❌ No | ✅ Yes | ❌ No |
+| **Schema Compare** | ✅ Powerful | ❌ No | ✅ Yes | ✅ Yes | ✅ Basic |
+| **Cloud Databases** | ✅ Supported | ✅ Limited | ✅ Supported | ✅ Supported | ❌ No |
+| **Version Control Integration** | ✅ Git, SVN, etc. | ❌ No | ❌ No | ❌ No | ❌ No |
 | **Cross-Platform** | ✅ Windows, Mac*, Linux* | ✅ All OSes | ✅ All OSes | ✅ All OSes | ✅ All OSes |
 | **Learning Curve** | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 | **Performance** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
