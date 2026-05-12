@@ -172,16 +172,23 @@ In 2025–2026, AI assistants have become the standard in modern IDEs:
 - **Web-Enhanced Responses**: Extended answers powered by online search
 - **Code Explanations**: Understanding complex SQL constructs
 
-### DBeaver AI Assistant (v25+):
+### DBeaver AI Assistant:
 - Smart code completion powered by AI
 - Integrated query optimization suggestions
 - Context-aware SQL generation
+
+### JetBrains AI Assistant:
+- Schema context for AI-based error explanations
+- Code completion with multiple AI model options, including latest language models
+- Cloud-based code completion 
+- AI Agents integration 
 
 ### Productivity Impact:
 Developers using AI assistants report:
 - 30-40% faster query writing
 - 50% reduction in syntax errors
 - Quicker identification of performance bottlenecks
+- Accelerated onboarding for junior developers learning SQL best practices
 
 ---
 
@@ -211,13 +218,3 @@ It's the difference between "just getting by" and flying through code at 2× spe
 
 And tomorrow? 
 Your team could already be delivering projects faster than ever.
-
-
-## Research & Sources
-
-This article references research from:
-- **GitClear Developer Productivity Research (2026)**: Analysis of 70,000 developer-years of data measuring the impact of development tools on team productivity and code quality metrics. Available at: https://www.gitclear.com/how_to_measure_developer_productivity_and_other_measurement_research
-- **Jellyfish Developer Productivity Engineering (2025)**: Study on how AI and modern tools accelerate developer learning, with 71% of junior developers reporting AI speeds up their learning of senior-level patterns and best practices.
-- **Redgate State of the Database Landscape Report (2026)**: Annual survey of thousands of data professionals worldwide examining database development workflows and team efficiency challenges.
-
-The tools and statistics mentioned reflect the state of MySQL IDEs and developer productivity research as of May 2026.
