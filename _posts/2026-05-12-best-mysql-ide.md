@@ -34,6 +34,8 @@ Ready? Let's dive in.
 
 ## 1. dbForge Studio for MySQL — The All-in-One Advantage for MySQL Experts 
 
+![dbForge Studio for MySQL](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbforge-mysql-ide.png)
+
 Think of it as the Swiss Army knife of MySQL development. 
 Only sleeker. Faster. Sharper. 
 
@@ -58,6 +60,8 @@ Clean UI, drag-and-drop query building, syntax suggestions, and visual tools tha
 
 ## 2. MySQL Workbench — Reliable, But Rusty 
 
+![MySQL Workbench](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/workbench-logo.png)
+
 A classic. Built by Oracle. Free and familiar. 
 
 But here's the catch: 
@@ -81,6 +85,8 @@ It's free, relatively well-documented, and a decent starting point when you're j
 
 ## 3. DBeaver — The Open-Source Explorer 
 
+![DBeaver](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbeaver-logo.png)
+
 Flexible and free. Supports not just MySQL but dozens of other databases. 
 
 Think of it as the backpackers' toolset — great for exploration, and now with modern features through 2025+ updates.
@@ -101,6 +107,8 @@ Free and open-source, lightweight, and a gentle intro to GUI-based SQL without o
 
 ## 4. DataGrip — The JetBrains Giant 
 
+![DataGrip](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/datagrip--logo.png)
+
 A powerful commercial IDE by the creators of IntelliJ. 
 
 If you're already deep in the JetBrains ecosystem, DataGrip might feel like home. 
@@ -120,6 +128,8 @@ Great documentation, customizable themes, and IntelliSense-like helpers that gui
 ---
 
 ## 5. HeidiSQL — The Lightweight Veteran 
+
+![HeidiSQL](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/heidisql-logo.png)
 
 Small, fast, and efficient. HeidiSQL has been around for years and still holds its ground. 
 
