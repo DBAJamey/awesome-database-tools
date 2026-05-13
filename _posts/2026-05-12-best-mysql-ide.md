@@ -11,7 +11,7 @@ What if your entire MySQL workflow could feel as smooth as drag-and-drop?
 
 Let's be honest. 
 
-Choosing the right MySQL IDE is like picking a keyboard. 
+Choosing the right [MySQL IDE](https://www.devart.com/dbforge/mysql/studio/) is like picking a keyboard. 
 Cheap ones frustrate you. Overcomplicated ones slow you down. 
 But when you find the one — clicks feel crisp, and your code? Effortless. 
 
@@ -42,7 +42,7 @@ Only sleeker. Faster. Sharper.
 Whether you're writing your first SELECT * 
 Or managing dozens of complex database environments... 
 
-dbForge Studio delivers: 
+[dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio/) delivers: 
 
 - Visual query builder for those who hate memorizing JOINs 
 - Schema compare and data sync tools that cut your deployment time in half 
@@ -51,7 +51,7 @@ dbForge Studio delivers:
 - AI-Powered features
 
 ### Why pros love it: 
-Comprehensive toolset for accelerating MySQL and MariaDB development, with advanced code highlighting, smart syntax completion, reusable code snippets, and formatting profiles that enforce clean, consistent, production-ready code — all in a single [MySQL IDE](https://www.devart.com/dbforge/mysql/studio/). Plus, powerful AI-driven features with context-aware query generation, conversion of natural language to SQL, query optimization, and integrated AI Chat for error analysis and recommendations.
+Comprehensive toolset for accelerating MySQL and MariaDB development, with advanced code highlighting, smart syntax completion, reusable code snippets, and formatting profiles that enforce clean, consistent, production-ready code — all in a single MySQL IDE. Plus, powerful AI-driven features with context-aware query generation, conversion of natural language to SQL, query optimization, and integrated AI Chat for error analysis and recommendations.
 
 ### Why beginners love it: 
 Clean UI, drag-and-drop query building, syntax suggestions, and visual tools that remove the need to memorize complex SQL queries. Plus, the availability of the free Express Edition after a 30-day full-featured trial.
