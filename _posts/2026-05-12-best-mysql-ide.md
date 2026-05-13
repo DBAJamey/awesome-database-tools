@@ -21,7 +21,7 @@ Opening tab #17 titled "best mysql ide for developers reddit."
 Sound familiar? 
 
 You're not alone. 
-According to research on developer productivity, the right tools can significantly impact how efficiently developers work. A [study by GitClear](https://www.gitclear.com/how_to_measure_developer_productivity_and_other_measurement_research) analyzing 70,000 developer-years of data found that teams using well-integrated development tools reported up to 4-10x output differences compared to teams without proper tooling, though this variation also depends on developer experience and workflow optimization. 
+According to research on developer productivity, the right tools can significantly impact how efficiently developers work. A study by GitClear analyzing 70,000 developer-years of data found that teams using well-integrated development tools reported up to 4-10x output differences compared to teams without proper tooling, though this variation also depends on developer experience and workflow optimization. 
 
 That ends today. 
 
