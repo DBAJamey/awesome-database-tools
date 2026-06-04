@@ -55,7 +55,7 @@ Based on the evaluation criteria we just covered, this comparison table highligh
 | Tool | Best for | AI capabilities | SQL Editor & Productivity | Ease of use |
 |------|----------|-----------------|---------------------------|-------------|
 | dbForge Studio for PostgreSQL + AI Assistant | PostgreSQL development, administration, analysis | AI via the integrated dbForge AI Assistant | Advanced editor, profiling, schema comparison, data tools | Structured, PostgreSQL-focused UI |
-| JetBrains DataGrip | Cross-database development | AI via JetBrains (AI Free included, AI Pro paid add-on) | Refactoring, autocomplete, query analysis, navigation | Moderate (IDE-style) ||
+| JetBrains DataGrip | Cross-database development | AI via JetBrains (AI Free included, AI Pro paid add-on) | Refactoring, autocomplete, query analysis, navigation | Moderate (IDE-style) |
 | DBeaver | Multi-database environments | AI support available, but limited in free edition | SQL editor, extensions, ER diagrams | Moderate |
 | Navicat for PostgreSQL | Enterprise database management | Built-in AI (latest versions) | Query editor, data modeling, migration tools | Easy |
 | TablePlus | Lightweight database access | AI via plugins/integrations | Fast editor, inline editing, schema browsing | Very easy |
