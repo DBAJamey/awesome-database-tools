@@ -15,6 +15,7 @@ To help you achieve that level of speed while maintaining consistent development
 - Shortlist fast with a side-by-side comparison table.
 - Match tools to workflows: query writing, CI/CD, or DBA tuning.
 - Learn when free SSMS suffices and when paid tooling pays off.
+
 ### Table of contents
  
 - [Evaluation criteria for SQL development tools](#evaluation-criteria-for-sql-development-tools)
@@ -36,6 +37,7 @@ To help you achieve that level of speed while maintaining consistent development
   - [Compare prices and value over time](#compare-prices-and-value-over-time)
 - [Conclusion](#conclusion)
 - [FAQ](#faq)
+
 ## Evaluation criteria for SQL development tools
  
 We scored every tool on how well it supports complex query development, not generic database access. Each criterion maps to daily T-SQL work.
@@ -90,17 +92,20 @@ dbForge SQL Tools brings together Devart's SQL Server development tools into a s
 - Schema and data comparison with deployment script generation.
 - Source control, unit testing, and test data generation.
 - Query profiling, documentation, and DevOps automation.
+
 #### Pros
  
 - Extends SSMS with faster coding, navigation, and refactoring tools.
 - Simplifies database changes with schema comparison and source control.
 - Supports testing, query analysis, and automated deployments.
 - Covers the full SQL development lifecycle inside SSMS.
+
 #### Cons
  
 - Windows-first (macOS and Linux require CrossOver or Wine).
 - Full toolkit requires a paid license after the 30-day trial.
 - Features are split across separate tools.
+
 **Pricing:** Starts from $469.95 per year, with a perpetual license option also available. A free 30-day trial covers the full bundle.
  
 **Compatibility:** Windows-native; integrates with SSMS and Visual Studio.
@@ -122,16 +127,19 @@ SQL Server Management Studio (SSMS) is where most SQL Server development begins,
 - Graphical execution plans, live query statistics, and Query Store for tracking down what is slow.
 - Object Explorer, stored procedure management, and Always On configuration.
 - GitHub Copilot as a shipped feature, with schema comparison and SQL formatting still in preview.
+
 #### Pros
  
 - Free for everyone, from a weekend project to an enterprise floor.
 - The execution-plan and diagnostics views are the best you will find without paying.
 - New SQL Server capabilities tend to show up here first.
+
 #### Cons
  
 - Completion is basic, refactoring is missing, and there are few reusable snippets.
 - No test data generation, unit testing, or documentation of its own.
 - Schema source control and real deployment automation both mean reaching for outside tools.
+
 **Pricing:** Free.
  
 **Compatibility:** Windows only, now 64-bit with native Arm64 support.
@@ -153,16 +161,19 @@ Redgate has been building SQL Server tools for years, and SQL Toolbelt Essential
 - Schema and data comparison that generate deployment scripts.
 - SQL Source Control with a full history behind every change.
 - SQL Test built on tSQLt, plus test data generation and documentation.
+
 #### Pros
  
 - SQL Prompt is still the completion tool rivals get measured against.
 - Comparison engines with years of production mileage behind them.
 - Good at holding an entire team to one coding and deployment standard.
+
 #### Cons
  
 - At roughly $1,410 per user a year for one to four seats, it runs close to three times the cost of dbForge Standard.
 - Ongoing monitoring lives in Redgate Monitor, which is a separate purchase.
 - A major SSMS upgrade usually means reinstalling everything.
+
 **Pricing:** Subscription pricing opens at $1,410 per user per year for one to four seats, with discounts as the seat count grows.
  
 **Compatibility:** Windows, with SSMS and Visual Studio integration.
@@ -184,16 +195,19 @@ Now part of Quest, ApexSQL DevOps Toolkit is built around database delivery rath
 - Automated code review with more than a hundred built-in rules and room for your own in C# or VB.NET.
 - tSQLt unit testing and test data generation.
 - Source control that works with Git, SVN, and the usual systems.
+
 #### Pros
  
 - Automation and code-review depth are the real draw.
 - Everything can run headless, with no GUI to babysit.
 - Rules and pipeline steps are highly customizable.
+
 #### Cons
  
 - What you can do depends on which underlying ApexSQL tools you have licensed.
 - Updates have come slowly since the Quest acquisition, so check the roadmap first.
 - Individual pipeline steps still lean on separate tool licenses.
+
 **Pricing:** Subscription start at $1,359 per user per year.
  
 **Compatibility:** Windows, with SSMS and Visual Studio integration, command-line and PowerShell control, and CI/CD pipeline hooks.
@@ -215,16 +229,19 @@ IDERA's Management Suite is squarely an operations bundle: five products led by 
 - Query-level diagnostics that feed straight into tuning decisions.
 - Compliance auditing and security review.
 - Centralized backup, fast recovery, and index defragmentation.
+
 #### Pros
  
 - Serious diagnostic depth, even across sprawling estates.
 - Solid compliance and audit coverage.
 - Scales to hundreds of monitored instances.
+
 #### Cons
  
 - Nothing for actually writing SQL, so no editor, completion, comparison, or source control.
 - Per-instance pricing climbs quickly on large environments.
 - Each product has its own console, which adds overhead.
+
 **Pricing:** Cost $2,517.60 paid per instance. Also includes first year maintenance.
  
 **Compatibility:** Windows, covering on-premises, virtual, and cloud instances.
@@ -246,16 +263,19 @@ SQL Toolbox is IDERA's smaller bundle, bringing together SQL Admin Toolset, SQL 
 - Twenty-four admin utilities covering inventory, health checks, and more.
 - SQL Safe Backup with flexible recovery options.
 - Server discovery and inventory tracking.
+
 #### Pros
  
 - An inexpensive way into IDERA's tooling.
 - SQL Doctor turns around practical tuning suggestions quickly.
 - Bundling saves roughly 45% over separate licenses.
+
 #### Cons
  
 - No development, comparison, or CI/CD features.
 - No always-on monitoring dashboard.
 - Duplicates several things SSMS already does.
+
 **Pricing:** Paid subscriptions start at $198.00 per user per year.
  
 **Compatibility:** Windows.
