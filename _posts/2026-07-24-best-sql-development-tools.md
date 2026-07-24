@@ -77,14 +77,13 @@ The top SQL development tools below serve different needs: daily query writing, 
  
 ### 1. dbForge SQL Tools
  
-[IMAGE]
+![dbForge SQL Tools](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbforge-sql-tools-logo-100x100.png)
  
 **Best for:** SSMS-based SQL Server development and complex query workflows
  
 dbForge SQL Tools brings together Devart's SQL Server development tools into a single toolkit that extends SQL Server Management Studio. The tools work together inside the familiar SSMS environment, supporting everything from coding and code review to testing and deployment. Released in June 2026, version 2026.1 further expands those capabilities while preserving the workflow teams already know.
  
-[IMAGE]
-*Alt text: dbForge SQL Complete with IntelliSense and code completion for SQL Server development.*
+![dbForge SQL Complete with IntelliSense and code completion for SQL Server development](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbforge.png)
  
 #### Features
  
@@ -112,14 +111,13 @@ dbForge SQL Tools brings together Devart's SQL Server development tools into a s
  
 ### 2. SQL Server Management Studio
  
-[IMAGE]
+![SQL Server Management Studio](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/ssms-logo-100x100.png)
  
 **Best for:** Developers who want Microsoft's free, official query environment
  
 SQL Server Management Studio (SSMS) is where most SQL Server development begins, and it's still the only fully featured Microsoft IDE available at no cost. Version 21 rebuilt SSMS on a 64-bit Visual Studio 2022 shell, brought GitHub Copilot out of preview, added Microsoft Fabric connectivity, and introduced an early schema comparison feature. While many third-party tools extend its capabilities, SSMS remains one of the go-to environments for writing, testing, and analyzing SQL queries.
  
-[IMAGE]
-*Alt text: SQL Server Management Studio graphical execution plan for SQL query performance analysis.*
+![SQL Server Management Studio graphical execution plan for SQL query performance analysis.](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/ssms.png)
  
 #### Features
  
@@ -146,14 +144,13 @@ SQL Server Management Studio (SSMS) is where most SQL Server development begins,
  
 ### 3. Redgate SQL Toolbelt Essentials
  
-[IMAGE]
+![Redgate SQL Toolbelt Essentials](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/redgate-logo-100x100.png)
  
 **Best for:** Teams that want a proven standard for T-SQL coding and delivery
  
 Redgate has been building SQL Server tools for years, and SQL Toolbelt Essentials combines eleven of them into a single subscription. SQL Prompt is the centerpiece, helping developers write and refactor SQL more efficiently, while the rest of the suite supports version control and database change management.
  
-[IMAGE]
-*Alt text: Redgate SQL Prompt integrated with SQL Server Management Studio, showing a T-SQL development workspace with Object Explorer and multiple SQL scripts.*
+![Redgate SQL Prompt integrated with SQL Server Management Studio, showing a T-SQL development workspace with Object Explorer and multiple SQL scripts.](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/redgate.png)
  
 #### Features
  
@@ -180,14 +177,13 @@ Redgate has been building SQL Server tools for years, and SQL Toolbelt Essential
  
 ### 4. ApexSQL DevOps Toolkit for SQL Server
  
-[IMAGE]
+![ApexSQL DevOps Toolkit for SQL Server](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/apexsql-logo-100x100.png)
  
 **Best for:** Getting complex SQL changes through a CI/CD pipeline.
  
 Now part of Quest, ApexSQL DevOps Toolkit is built around database delivery rather than SQL editing. It connects ApexSQL's tools with CI/CD pipelines and command-line automation, making it easier to build, validate, and deploy SQL Server changes. Think of it as the infrastructure that carries a reviewed change from commit to production.
  
-[IMAGE]
-*Alt text: ApexSQL DevOps Toolkit configuring SQL Server database scripting, object selection, and deployment options for DevOps workflows.*
+![ApexSQL DevOps Toolkit configuring SQL Server database scripting, object selection, and deployment options for DevOps workflows.](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/apexsql.png)
  
 #### Features
  
@@ -214,14 +210,13 @@ Now part of Quest, ApexSQL DevOps Toolkit is built around database delivery rath
  
 ### 5. IDERA SQL Management Suite
  
-[IMAGE]
+![IDERA SQL Management Suite](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/idera-logo-100x100.png)
  
 **Best for:** Developers whose work is driven by DBA-side diagnostics and tuning.
  
 IDERA's Management Suite is squarely an operations bundle: five products led by SQL Diagnostic Manager (Pro edition) alongside compliance, security, backup, and defrag tools, but it earns a spot here for one reason. When a query is dragging, its diagnostics tell you which statement is to blame and why, which is exactly the read a developer wants before rewriting anything.
  
-[IMAGE]
-*Alt text: IDERA DBArtisan visual SQL query builder with database schema relationships and query results for SQL development.*
+![IDERA DBArtisan visual SQL query builder with database schema relationships and query results for SQL development.](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/idera.png)
  
 #### Features
  
@@ -248,14 +243,13 @@ IDERA's Management Suite is squarely an operations bundle: five products led by 
  
 ### 6. IDERA SQL Toolbox
  
-[IMAGE]
+![IDERA SQL Toolbox](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/idera-logo-100x100.png)
  
 **Best for:** A lighter set of DBA utilities with query-tuning advice.
  
 SQL Toolbox is IDERA's smaller bundle, bringing together SQL Admin Toolset, SQL Safe Backup, and SQL Doctor. It focuses on diagnostics, maintenance, and recovery rather than full database management. For SQL developers, SQL Doctor is the most relevant component, helping identify slow queries and indexing issues.
  
-[IMAGE]
-*Alt text: IDERA Code Generator generating SQL code and stored procedures from database objects to accelerate SQL development.*
+![IDERA Code Generator generating SQL code and stored procedures from database objects to accelerate SQL development.](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/idera2.png)
  
 #### Features
  
