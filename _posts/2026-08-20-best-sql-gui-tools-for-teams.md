@@ -55,7 +55,7 @@ These ten range from full lifecycle IDEs to lightweight editors, each written to
 
 ### 1. dbForge Edge
 
-![dbForge Edge](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbforge-edge-200x200.png)
+![dbForge Edge](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbforge-edge-100x100.png)
 
 **Best for:** Managing SQL Server, MySQL/MariaDB, Oracle, and PostgreSQL from one IDE.
 
@@ -171,13 +171,13 @@ You can use it free for non-commercial work. Paid subscriptions start at $10.90/
 
 ### 4. Navicat Premium
 
-![Navicat Premium]()
+![Navicat Premium](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/navicat-100x100.png)
 
 **Best for:** Cross-database administration and data migration.
 
 Navicat Premium provides support for multiple database platforms with a single interface, including MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, Redis, Snowflake and SQLite. This is particularly useful when your team is frequently migrating data from one database system to another or when you're working with a mix of environments.
 
-![Navicat Premium showing the SQL editor, database explorer, and connections to multiple database platforms.]()
+![Navicat Premium showing the SQL editor, database explorer, and connections to multiple database platforms.](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/4-navicat-scr.png)
 
 #### Key features
 
@@ -209,13 +209,13 @@ You pay around $79.99/month or $799.99/year to get started. A perpetual licence 
 
 ### 5. DbVisualizer
 
-![DbVisualizer]()
+![DbVisualizer](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbvisualizer_postgresql_ai.png)
 
 **Best for:** Teams that need the same SQL client across Windows, macOS, and Linux.
 
 DbVisualizer is a cross-platform SQL client that delivers the same experience on Windows, macOS, and Linux. It supports a wide range of databases through JDBC and combines SQL development with features like Git integration and AI-assisted query writing.
 
-![DbVisualizer showing the SQL editor, database explorer, and database object tree.]()
+![DbVisualizer showing the SQL editor, database explorer, and database object tree.](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/5-dbvis-scr.png)
 
 #### Key features
 
@@ -247,13 +247,13 @@ The Pro edition starts at $199 per user for the first year, with renewals at $89
 
 ### 6. Aqua Data Studio
 
-![Aqua Data Studio]()
+![Aqua Data Studio](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/adc-100x100.png)
 
 **Best for:** Teams where developers, analysts, and DBAs use the same database tool.
 
 Aqua Data Studio is a multi-database IDE that combines SQL development with integrated analytics and reporting tools. It supports more than 40 database platforms and is a good fit for teams that need to write queries, analyze data and manage databases from one application.
 
-![Aqua Data Studio displaying the Schema Compare tool and database explorer.]()
+![Aqua Data Studio displaying the Schema Compare tool and database explorer.](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/6-aqua-scr.png)
 
 #### Key features
 
@@ -285,13 +285,13 @@ Standard starts at $499 per user/year, while Ultimate costs $699 per user/year. 
 
 ### 7. Toad Data Studio
 
-![Toad Data Studio]()
+![Toad Data Studio](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/toad-100x100.png)
 
 **Best for:** Regulated, secure, and air-gapped environments.
 
 Toad Data Studio is built for organizations that need flexible deployment options such as fully offline environments. It supports database development and administration, and data comparison with licensing options for connected, hybrid, and air-gapped networks.
 
-![Toad Data Studio showing an SQL query with an AI-generated explanation in a split view.]()
+![Toad Data Studio showing an SQL query with an AI-generated explanation in a split view.](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/7-toad-scr.png)
 
 #### Key features
 
@@ -323,13 +323,13 @@ Pricing is available by quote only, with subscription and perpetual licensing op
 
 ### 8. RazorSQL
 
-![RazorSQL]()
+![RazorSQL](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/razor-100x100.png)
 
 **Best for:** Teams that need broad database support at a one-time cost.
 
 RazorSQL is a small SQL editor that supports over 40 databases with native drivers, JDBC, and ODBC. The interface is a little old school but it has good database support as well as a perpetual license, so it is a good choice for developers who don't need advanced collaboration.
 
-![RazorSQL showing the SQL editor, database explorer, table editor, and query results.]()
+![RazorSQL showing the SQL editor, database explorer, table editor, and query results.](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/8-razor-scr.png)
 
 #### Key features
 
@@ -361,11 +361,13 @@ Perpetual licenses start at $129 per user, with discounted pricing for larger te
 
 ### 9. TablePlus
 
+![TablePlus](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/tableplus_postgresql_ai.png)
+
 **Best for:** Solo developers and small teams looking for a fast, lightweight SQL client.
 
 TablePlus is a native GUI database client that feels fast from the start. It supports more than 20 databases and is well suited to developers who mainly spend their time writing queries and working with data.
 
-![TablePlus showing the SQL editor, database explorer, query autocomplete, and query results.]()
+![TablePlus showing the SQL editor, database explorer, query autocomplete, and query results.](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/9-tableplus-scr.png)
 
 #### Key features
 
@@ -397,13 +399,13 @@ Basic costs $99 per device (one-time), while the Team plan starts at $79 per sea
 
 ### 10. Beekeeper Studio
 
-![Beekeeper Studio]()
+![Beekeeper Studio](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/beekeeper_postgresql_ai.png)
 
 **Best for:** Teams looking for an open-source SQL client with optional collaboration features.
 
 Beekeeper Studio is a free, open source SQL client with paid plans for teams who require collaboration features. It supports more than 20 databases and has a clean, modern interface. It's a popular choice for developers looking for a lightweight alternative to larger database IDEs.
 
-![Beekeeper Studio showing the SQL editor, query autocomplete, saved queries, and query results.]()
+![Beekeeper Studio showing the SQL editor, query autocomplete, saved queries, and query results.](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/10-beekeeper-scr.png)
 
 #### Key features
 
