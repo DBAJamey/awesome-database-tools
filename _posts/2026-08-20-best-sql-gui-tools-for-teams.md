@@ -55,13 +55,13 @@ These ten range from full lifecycle IDEs to lightweight editors, each written to
 
 ### 1. dbForge Edge
 
-![dbForge Edge]()
+![dbForge Edge](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbforge-edge-200x200.png)
 
 **Best for:** Managing SQL Server, MySQL/MariaDB, Oracle, and PostgreSQL from one IDE.
 
 dbForge Edge is a [universal database tool](https://www.devart.com/dbforge/edge/) that combines four database IDEs into one suite; it is a good choice for teams working with several database platforms. dbForge Edge supports 30+ databases and cloud services with out-of-the-box tools for SQL development, schema comparison, synchronization, automation and AI-assisted coding.
 
-![dbForge Edge showing the SQL Server environment with the Query Builder and AI Assistant.]()
+![dbForge Edge showing the SQL Server environment with the Query Builder and AI Assistant.](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/1-edge-scr.png)
 
 #### [dbForge Edge: The Universal Tool for Database Development and Management](https://www.youtube.com/watch?v=r_hZgvPzjKM&pp=ygUMZGJmb3JnZSBlZGdl)
 
@@ -95,13 +95,13 @@ From $749.95 per user/year. Includes a 30-day free trial and a free Express edit
 
 ### 2. DBeaver
 
-![DBeaver]()
+![DBeaver](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbeaver-logo.png)
 
 **Best for:** Teams working across multiple databases with desktop and browser access.
 
 DBeaver supports 100+ databases via JDBC and is one of the best SQL clients out there. The free Community Edition is sufficient for day-to-day database work, and Team Edition adds collaboration, role-based access, and shared connection management. CloudBeaver is an experience in the browser.
 
-![DBeaver SQL Editor showing the database navigator, SQL editor, and query results.]()
+![DBeaver SQL Editor showing the database navigator, SQL editor, and query results.](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/2-dbeaver-scr.png)
 
 #### Key features
 
@@ -133,13 +133,13 @@ Community Edition is free. Team Edition (collaboration, RBAC) is priced per role
 
 ### 3. JetBrains DataGrip
 
-![JetBrains DataGrip]()
+![JetBrains DataGrip](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/datagrip--logo.png)
 
 **Best for:** Developers already using the JetBrains ecosystem.
 
 DataGrip is a SQL database IDE instead of a database administration tool. It is known for its intelligent code completion, refactoring tools and query inspections that make it a great choice for developers who are writing and maintaining SQL. Version 2026.1 also added AI agent capabilities to help with database tasks.
 
-![JetBrains DataGrip showing the SQL editor, database explorer, and query results.]()
+![JetBrains DataGrip showing the SQL editor, database explorer, and query results.](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/3-datagrip-scr.png)
 
 #### Key features
 
