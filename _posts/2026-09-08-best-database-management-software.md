@@ -149,12 +149,13 @@ Pros:
 - Free and fully supported by their ecosystems
 - Strong integration with native database features
 - Updated regularly, both now on frequent release cadences
+- pgAdmin adds a native AI Assistant (NL2SQL, AI reports, EXPLAIN insights) as of 2026
 
 Cons:
 - Clunky interfaces
 - Not ideal for cross-database workflows
-- Missing advanced productivity features, and no AI assistant on either side
-- Oracle SQL Developer has moved SQLcl and ORDS out as standalone downloads, so a fresh install alone no longer gives you the full toolchain
+- Missing advanced productivity features
+- pgAdmin now ships a native AI Assistant (since v9.13), but you need your own OpenAI/Anthropic-compatible API key; SQL Developer itself still has no built-in AI panel, only pass-through access to the database's own Select AI if you're connected to Oracle AI Database 26ai
 
 Best for: Specialists working with just one DBMS who need compatibility more than speed.
 
@@ -168,7 +169,7 @@ Best for: Specialists working with just one DBMS who need compatibility more tha
 | **Navicat Premium** | Yes, Navicat AI (basic) | MySQL, MariaDB, SQL Server, Oracle, PostgreSQL, SQLite, MongoDB, Redis, Snowflake | Yes | Windows, macOS, Linux | Subscription or perpetual license |
 | **DataGrip** | Yes, JetBrains AI Assistant | Nearly every RDBMS | Limited, no full sync/deploy | Windows, macOS, Linux | Free for non-commercial use; paid individual/org plans |
 | **HeidiSQL** | No | MySQL, MariaDB, SQL Server, PostgreSQL, SQLite/Firebird | No | Windows only | Free, open-source |
-| **pgAdmin / SQL Developer** | No | PostgreSQL / Oracle only | Limited | Windows, macOS, Linux | Free |
+| **pgAdmin / SQL Developer** | Split: pgAdmin yes (BYO API key), SQL Developer no built-in | PostgreSQL / Oracle only | Limited | Windows, macOS, Linux | Free |
 
 ## One final thought
 
