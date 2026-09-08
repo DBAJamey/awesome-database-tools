@@ -32,12 +32,14 @@ Ready to break the cycle? Let's explore the top tools that help you write better
 
 ## 1. dbForge SQL Complete
 
+![dbForge SQL Complete](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbforge-sql-complete-150x150.png)
+
 **The T-SQL turbocharger trusted by top SQL pros**
 
 Pros:
 
 - Context-aware code completion and JOIN suggestions
-- **dbForge AI Assistant**, built into SQL Complete since v2025.3: chat with an LLM about your code, generate SQL from a plain-language request, get error explanations and fixes, query optimization suggestions, and built-in web search for sourced answers
+- **dbForge AI Assistant**, integrated into SQL Complete: chat with an LLM about your code, generate SQL from a plain-language request, get error explanations and fixes, query optimization suggestions, and built-in web search for sourced answers
 - Smart formatting profiles and instant beautification
 - Code snippets with parameter placeholders
 - Navigation tools: go to declaration, view history, highlight identifiers
@@ -47,15 +49,16 @@ Cons:
 
 - SQL Server only (T-SQL), no MySQL/Oracle/PostgreSQL support in this particular add-in
 - Full feature set requires a paid license (Standard, Professional, or Enterprise)
-- The AI Assistant is licensed separately from SQL Complete itself. It ships in the same install and carries its own free 14-day trial, but continuing to use it after the trial needs its own subscription, on top of a SQL Complete license
 
-Why it stands out: unlike generic IntelliSense tools, [SQL Complete](https://www.devart.com/dbforge/sql/sqlcomplete/) understands your code, offering intelligent suggestions based on context, not guesswork, and now backs that up with an AI assistant that can explain, fix, and optimize the query in front of you.
+Why it stands out: unlike generic IntelliSense tools, SQL Complete delivers [SQL autocomplete](https://www.devart.com/dbforge/sql/sqlcomplete/) that understands your code, offering intelligent suggestions based on context, not guesswork, and now backs that up with an AI assistant that can explain, fix, and optimize the query in front of you.
 
 Best for: developers who are tired of writing boilerplate T-SQL and want clean, production-ready code without the grunt work, plus an AI assistant that already knows their schema.
 
 Only a handful of tools feel like they "think with you." This is one of them. See how it works for you with a [free trial](https://www.devart.com/dbforge/sql/sqlcomplete/download.html). After the trial ends, SQL Complete falls back to the free Express edition rather than locking you out entirely.
 
 ## 2. Redgate SQL Prompt
+
+![Redgate SQL Prompt](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/redgate-sql-prompt-150x150.png)
 
 **A reliable classic for cleaner SQL scripting, now with its own AI layer**
 
@@ -64,7 +67,7 @@ Pros:
 - Fast, clean code suggestions
 - Style rules for consistent formatting
 - Handy snippets and auto-fixes
-- **Redgate Assistant** (currently in preview): an AI chatbot for T-SQL that supports text-to-SQL generation, plain-English explanations of existing queries, and query fix/optimization suggestions
+- Redgate Assistant (currently in preview): an AI chatbot for T-SQL that supports text-to-SQL generation, plain-English explanations of existing queries, and query fix/optimization suggestions
 
 Cons:
 
@@ -77,6 +80,8 @@ Why it's useful: it's rock-solid and polished, perfect if your biggest issue is 
 Best for: teams who already use Redgate tools and want to unify code style across the board, and are on an active subscription rather than a perpetual license.
 
 ## 3. ApexSQL Refactor & Complete (by Quest)
+
+![ApexSQL Refactor & Complete (by Quest)](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/apexsql-150x150.png)
 
 **Formerly a free toolkit, now discontinued**
 
@@ -99,6 +104,8 @@ Best for: nobody starting fresh. If you're still running an existing install, it
 
 ## 4. SSMSBoost
 
+![SSMSBoost](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/ssms-boost-150x150.png)
+
 **SSMS superpowers, if you can handle the learning curve**
 
 Pros:
@@ -119,6 +126,8 @@ Why it matters: it's like giving SSMS a second brain, but it won't write better 
 Best for: power users who live in SSMS daily and want full control over their workflow, typically alongside a separate completion tool rather than instead of one.
 
 ## 5. SQL Server Management Studio (SSMS) + Native IntelliSense
+
+![SSMS](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/ssms-150x150.png)
 
 **The default, and that's still mostly the problem, though Copilot is changing it**
 
