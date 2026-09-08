@@ -24,7 +24,7 @@ How much of your day is spent fixing typos, formatting queries, or trying to rem
 
 If your T-SQL workflow feels like a constant battle against repetition, clutter, and lost time, you're not alone.
 
-The truth is, most SQL developers waste up to 30% of their coding hours on things that could be automated.
+The truth is, plenty of SQL developers still lose real coding hours every week to typos, reformatting, and lookups that could be automated.
 
 But here's the kicker: only a small fraction take advantage of the tools that could instantly level up their game.
 
@@ -53,7 +53,7 @@ Why it stands out: unlike generic IntelliSense tools, [SQL Complete](https://www
 
 Best for: developers who are tired of writing boilerplate T-SQL and want clean, production-ready code without the grunt work, plus an AI assistant that already knows their schema.
 
-Only a handful of tools feel like they "think with you." This is one of them. See how it works for you with a [free trial](https://www.devart.com/dbforge/sql/sqlcomplete/download.html) (current version 2026.1.77, supports SSMS v17-v22 and Visual Studio 2015-2026). After the trial ends, SQL Complete falls back to the free Express edition rather than locking you out entirely.
+Only a handful of tools feel like they "think with you." This is one of them. See how it works for you with a [free trial](https://www.devart.com/dbforge/sql/sqlcomplete/download.html). After the trial ends, SQL Complete falls back to the free Express edition rather than locking you out entirely.
 
 ## 2. Redgate SQL Prompt
 
@@ -64,7 +64,7 @@ Pros:
 - Fast, clean code suggestions
 - Style rules for consistent formatting
 - Handy snippets and auto-fixes
-- **Redgate Assistant** (currently in preview): an AI chatbot for T-SQL that supports text-to-SQL generation, plain-English explanations of existing queries, and machine-learning-driven index recommendations
+- **Redgate Assistant** (currently in preview): an AI chatbot for T-SQL that supports text-to-SQL generation, plain-English explanations of existing queries, and query fix/optimization suggestions
 
 Cons:
 
@@ -133,7 +133,7 @@ Cons:
 - Native IntelliSense autocomplete is still slow and basic on its own
 - No JOIN-aware suggestions from IntelliSense itself
 - No dedicated SQL formatting or refactoring engine built in
-- GitHub Copilot in SSMS requires its own separate subscription, and its code completions are a different feature from IntelliSense, not a replacement for a dedicated formatting/refactoring toolset
+- GitHub Copilot in SSMS is licensed separately from SSMS itself (a limited free tier exists, with paid plans for full usage), and its code completions are a different feature from IntelliSense, not a replacement for a dedicated formatting/refactoring toolset
 
 Why it's limited: it's enough to get started, and Copilot narrows the AI gap somewhat. But if you rely solely on the native tooling, you're still leaving formatting, refactoring, and JOIN-aware completion on the table.
 
