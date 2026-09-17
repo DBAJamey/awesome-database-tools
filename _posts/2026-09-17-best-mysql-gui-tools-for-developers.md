@@ -61,13 +61,13 @@ If you're comparing several tools, this table is the fastest place to start. It 
 
 Use it to narrow your MySQL GUI tools list before diving into the detailed reviews below.
 
-| Tool | AI support | Visual query builder | Schema & data tools | Free version / trial | Platform |
-|---|---|---|---|---|---|
-| **dbForge Studio for MySQL**<br>Full MySQL & MariaDB development | Yes<br>dbForge AI Assistant (NL-to-SQL, Fix SQL, Explain, AI chat) | Yes | Database Designer (ER diagrams), Schema/Data Compare, Copy Database, backup & restore, reporting | Free Express edition<br>30-day trial of paid plans | Windows (native); macOS & Linux via CrossOver/Wine |
-| **MySQL Workbench**<br>Official MySQL development & administration | No native AI | Yes | Data modeling & ER diagrams, Performance Dashboard, administration | Free | Windows, macOS, Linux |
-| **DBeaver**<br>Multi-database development | Yes<br>Community: bring-your-own API key (OpenAI, GitHub Copilot); more providers (Gemini, Azure OpenAI, Bedrock) from Lite tier | Paid only, from Lite tier ($113/user/year) | Data editor, ER diagrams, multi-database support | Free Community Edition<br>14-day trial of paid tiers | Windows, macOS, Linux |
-| **DataGrip**<br>SQL-heavy development & JetBrains users | Yes<br>JetBrains AI (AI Chat with agents, text-to-SQL) | No dedicated builder — smart SQL editor instead (still an open feature request) | Smart SQL editor, refactoring, multi-database support | Free for non-commercial use (since Oct 2025)<br>commercial from $10.90/user/month | Windows, macOS, Linux |
-| **Navicat for MySQL**<br>Administration & synchronization workflows | Yes<br>AI Assistant since v17.2 (OpenAI, Gemini, Claude, DeepSeek, and more) | Yes, Query Builder | Data modeling, sync, backup, import/export | No free edition (Navicat Premium Lite is a separate free multi-DB product)<br>14-day trial | Windows, macOS, Linux |
+| Tool | AI support | Visual query builder | Schema & data tools | Free version / trial | 
+|---|---|---|---|---|
+| **dbForge Studio for MySQL**<br>Full MySQL & MariaDB development | Yes<br>dbForge AI Assistant (NL-to-SQL, Fix SQL, Explain, AI chat) | Yes | Database Designer (ER diagrams), Schema/Data Compare, Copy Database, backup & restore, reporting | Free Express edition<br>30-day trial of paid plans |
+| **MySQL Workbench**<br>Official MySQL development & administration | No native AI | Yes | Data modeling & ER diagrams, Performance Dashboard, administration | Free |
+| **DBeaver**<br>Multi-database development | Yes<br>Community: bring-your-own API key (OpenAI, GitHub Copilot); more providers (Gemini, Azure OpenAI, Bedrock) from Lite tier | Paid only, from Lite tier ($113/user/year) | Data editor, ER diagrams, multi-database support | Free Community Edition<br>14-day trial of paid tiers |
+| **DataGrip**<br>SQL-heavy development & JetBrains users | Yes<br>JetBrains AI (AI Chat with agents, text-to-SQL) | No dedicated builder — smart SQL editor instead (still an open feature request) | Smart SQL editor, refactoring, multi-database support | Free for non-commercial use (since Oct 2025)<br>commercial from $10.90/user/month |
+| **Navicat for MySQL**<br>Administration & synchronization workflows | Yes<br>AI Assistant since v17.2 (OpenAI, Gemini, Claude, DeepSeek, and more) | Yes, Query Builder | Data modeling, sync, backup, import/export | No free edition (Navicat Premium Lite is a separate free multi-DB product)<br>14-day trial |
 
 The best GUI for MySQL depends on your workflow. If you mainly write SQL, editor quality and code assistance may matter most. If you're responsible for administration, profiling, synchronization, or schema management, a more complete database IDE can save a lot of time over the long run.
 
@@ -81,7 +81,7 @@ To make things easier to compare, each review follows the same format and covers
 
 ## 1. dbForge Studio for MySQL
 
-!(dbForge Studio for MySQL)[https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbforge-mysql-ide.png]
+![dbForge Studio for MySQL](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbforge-mysql-ide.png)
 
 Platforms: Windows (macOS and Linux via compatibility options)
 
