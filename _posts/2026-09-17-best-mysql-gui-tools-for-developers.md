@@ -389,6 +389,10 @@ Learning, personal projects, simple administration. A paid tool could help with 
 
 Desktop tools are generally more feature-rich. Web-based tools are convenient for quick access and easy management.
 
+---
+
+*Originally published on [linkedin.com](https://www.linkedin.com/pulse/5-best-mysql-guis-developers-2026-tyler-rees-e6ikf/) by Tyler Rees.*
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
