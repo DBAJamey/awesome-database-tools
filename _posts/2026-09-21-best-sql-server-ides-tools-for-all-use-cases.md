@@ -50,7 +50,7 @@ Whether you are developing, analyzing, or managing databases, this one tool cove
 
 Every week spent stuck in a clunky workflow costs real hours. Get the schema comparison and AI Assistant running in your own environment with the [30 day free trial](https://www.devart.com/dbforge/sql/studio/download.html).
 
-And if your stack covers more than only SQL Server, you can also try dbForge Edge. It supports many databases (including PostgreSQL, Oracle, MySQL, and MariaDB), so if you manage mixed environments, dbForge Edge is a solid [database IDE](https://www.devart.com/dbforge/edge/) option.
+And if your stack covers more than only SQL Server, you can also try dbForge Edge. It supports many databases (including PostgreSQL, Oracle, MySQL, MariaDB, and a wide range of related cloud services), so if you manage mixed environments, dbForge Edge is a solid [database IDE](https://www.devart.com/dbforge/edge/) option.
 
 ## 2. VS Code with the MSSQL Extension: The Official Replacement for Azure Data Studio
 
