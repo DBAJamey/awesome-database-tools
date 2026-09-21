@@ -17,15 +17,15 @@ This update walks through the seven tools worth your time in 2026, whatever your
 
 ## Quick Comparison: SQL Server Tools at a Glance
 
-| Tool | Best for | Platforms | 2026 pricing | Free option |
-|---|---|---|---|---|
-|![](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/1dbforge-sql-studio.png) dbForge Studio for SQL Server | End to end development, DBA work, and DevOps automation in one IDE | Windows (macOS, Linux via CrossOver or Wine) | Standard $229.95/yr, Professional $349.95/yr, Enterprise $479.95/yr; perpetual licenses also available | Free Express edition, plus a 30 day trial of paid editions |
-| VS Code with the MSSQL extension | Lightweight, cross platform querying, replacing Azure Data Studio | Windows, macOS, Linux | Free | Free |
-| Redgate SQL Toolbelt | Enterprise schema and data comparison plus deployment pipelines | Windows (SSMS plugin) | SQL Toolbelt Essentials from about $1,495/user/yr; full Toolbelt from about $3,665 | 14 day trial |
-| DBeaver | Managing SQL Server alongside many other database engines in one client | Windows, macOS, Linux | Community free; Lite $113/user/yr; Enterprise and Ultimate up to $510/user/yr | Free Community edition |
-| Navicat for SQL Server | Visual, GUI first database design and administration | Windows, macOS (Linux via Wine) | Navicat Premium (multi database) from about $1,599 one time; the SQL Server only edition costs less | Free trial |
-| DataGrip | Polyglot developers already living inside JetBrains IDEs | Windows, macOS, Linux | About $109/yr individual, about $259/user/yr for organizations, free for non commercial use | 30 day trial, free non commercial license |
-| Toad for SQL Server | DBAs who want a familiar GUI plus a built in AI assistant | Windows | Contact Quest for pricing | Free trial |
+| Logo | Tool | Best for | Platforms | Pricing | Free option |
+|---|---|---|---|---|---|
+|![](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/1dbforge-sql-studio.png) | dbForge Studio for SQL Server | End to end development, DBA work, and DevOps automation in one IDE | Windows (macOS, Linux via CrossOver or Wine) | Standard $229.95/yr, Professional $349.95/yr, Enterprise $479.95/yr; perpetual licenses also available | Free Express edition, plus a 30 day trial of paid editions |
+|![]() | VS Code with the MSSQL extension | Lightweight, cross platform querying, replacing Azure Data Studio | Windows, macOS, Linux | Free | Free |
+|![]() | Redgate SQL Toolbelt | Enterprise schema and data comparison plus deployment pipelines | Windows (SSMS plugin) | SQL Toolbelt Essentials from about $1,495/user/yr; full Toolbelt from about $3,665 | 14 day trial |
+|![](https://github.com/DBAJamey/awesome-database-tools/blob/main/assets/images/dbeaver-logo.png?raw=true) | DBeaver | Managing SQL Server alongside many other database engines in one client | Windows, macOS, Linux | Community free; Lite $113/user/yr; Enterprise and Ultimate up to $510/user/yr | Free Community edition |
+|![]() | Navicat for SQL Server | Visual, GUI first database design and administration | Windows, macOS (Linux via Wine) | Navicat Premium (multi database) from about $1,599 one time; the SQL Server only edition costs less | Free trial |
+|![](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/datagrip--logo.png) | DataGrip | Polyglot developers already living inside JetBrains IDEs | Windows, macOS, Linux | About $109/yr individual, about $259/user/yr for organizations, free for non commercial use | 30 day trial, free non commercial license |
+|![]() | Toad for SQL Server | DBAs who want a familiar GUI plus a built in AI assistant | Windows | Contact Quest for pricing | Free trial |
 
 Now let's look at each one in detail.
 
