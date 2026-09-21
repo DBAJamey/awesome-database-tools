@@ -17,15 +17,15 @@ This update walks through the seven tools worth your time in 2026, whatever your
 
 ## Quick Comparison: SQL Server Tools at a Glance
 
-| Tool | Best for | Platforms | 2026 pricing | Free option | G2 rating |
-|---|---|---|---|---|---|
-| [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio/) | End to end development, DBA work, and DevOps automation in one IDE | Windows (macOS, Linux via CrossOver or Wine) | Standard $229.95/yr, Professional $349.95/yr, Enterprise $479.95/yr; perpetual licenses also available | Free Express edition, plus a 30 day trial of paid editions | 4.6/5 (58 reviews) |
-| VS Code with the MSSQL extension | Lightweight, cross platform querying, replacing Azure Data Studio | Windows, macOS, Linux | Free | Free | 4.7/5 (2,400+ reviews for VS Code overall) |
-| Redgate SQL Toolbelt | Enterprise schema and data comparison plus deployment pipelines | Windows (SSMS plugin) | SQL Toolbelt Essentials from about $1,495/user/yr; full Toolbelt from about $3,665 | 14 day trial | 4.7/5 (26 reviews, Essentials) |
-| DBeaver | Managing SQL Server alongside many other database engines in one client | Windows, macOS, Linux | Community free; Lite $113/user/yr; Enterprise and Ultimate up to $510/user/yr | Free Community edition | 4.4/5 (162 reviews) |
-| Navicat for SQL Server | Visual, GUI first database design and administration | Windows, macOS (Linux via Wine) | Navicat Premium (multi database) from about $1,599 one time; the SQL Server only edition costs less | Free trial | 4.4/5 (53 reviews, Navicat Premium) |
-| DataGrip | Polyglot developers already living inside JetBrains IDEs | Windows, macOS, Linux | About $109/yr individual, about $259/user/yr for organizations, free for non commercial use | 30 day trial, free non commercial license | 4.6/5 (126 reviews) |
-| Toad for SQL Server | DBAs who want a familiar GUI plus a built in AI assistant | Windows | Contact Quest for pricing | Free trial | No current dedicated G2 page; related Toad Edge sits at 4.5/5 |
+| Tool | Best for | Platforms | 2026 pricing | Free option |
+|---|---|---|---|---|
+|![](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/1dbforge-sql-studio.png) dbForge Studio for SQL Server | End to end development, DBA work, and DevOps automation in one IDE | Windows (macOS, Linux via CrossOver or Wine) | Standard $229.95/yr, Professional $349.95/yr, Enterprise $479.95/yr; perpetual licenses also available | Free Express edition, plus a 30 day trial of paid editions |
+| VS Code with the MSSQL extension | Lightweight, cross platform querying, replacing Azure Data Studio | Windows, macOS, Linux | Free | Free |
+| Redgate SQL Toolbelt | Enterprise schema and data comparison plus deployment pipelines | Windows (SSMS plugin) | SQL Toolbelt Essentials from about $1,495/user/yr; full Toolbelt from about $3,665 | 14 day trial |
+| DBeaver | Managing SQL Server alongside many other database engines in one client | Windows, macOS, Linux | Community free; Lite $113/user/yr; Enterprise and Ultimate up to $510/user/yr | Free Community edition |
+| Navicat for SQL Server | Visual, GUI first database design and administration | Windows, macOS (Linux via Wine) | Navicat Premium (multi database) from about $1,599 one time; the SQL Server only edition costs less | Free trial |
+| DataGrip | Polyglot developers already living inside JetBrains IDEs | Windows, macOS, Linux | About $109/yr individual, about $259/user/yr for organizations, free for non commercial use | 30 day trial, free non commercial license |
+| Toad for SQL Server | DBAs who want a familiar GUI plus a built in AI assistant | Windows | Contact Quest for pricing | Free trial |
 
 Now let's look at each one in detail.
 
@@ -33,10 +33,10 @@ Now let's look at each one in detail.
 
 ![dbForge Studio for SQL Server logo]()
 
+Imagine SSMS got a glow up, hired an automation assistant, and learned to write clean code in your house style. That is dbForge Studio for SQL Server. Refreshed in August 2026, it combines deep SQL functionality with a modern interface and integrations built for entire teams, not just individual developers.
+
 ![dbForge Studio for SQL Server schema comparison window showing a side by side diff between a development and a production SQL Server database with the sync script preview open]()
 *Screenshot reference: [dbForge Studio for SQL Server features page](https://www.devart.com/dbforge/sql/studio/features.html)*
-
-Imagine SSMS got a glow up, hired an automation assistant, and learned to write clean code in your house style. That is dbForge Studio for SQL Server. Refreshed in August 2026, it combines deep SQL functionality with a modern interface and integrations built for entire teams, not just individual developers.
 
 Whether you are developing, analyzing, or managing databases, this one tool covers:
 
@@ -52,10 +52,6 @@ Whether you are developing, analyzing, or managing databases, this one tool cove
 Every week spent stuck in a clunky workflow costs real hours. Get the schema comparison and AI Assistant running in your own environment with the [30 day free trial](https://www.devart.com/dbforge/sql/studio/download.html).
 
 If your stack covers more than SQL Server, look at dbForge Edge instead. It wraps dbForge's Studios for PostgreSQL, Oracle, MySQL, MariaDB, and SQL Server into one cross platform app, and when its 30 day trial ends it does not lock you out. It quietly falls back to a permanent, free Express edition covering the basics of coding, design, and data editing, a detail that is easy to miss if you only skim the [dbForge Edge](https://www.devart.com/dbforge/edge/) landing page.
-
-#### What G2 reviewers say
-
-dbForge Studio for SQL Server holds a 4.6/5 rating from 58 reviews on G2. Reviewers consistently point to the intuitive interface and productivity gains from features like schema and data comparison and intelligent code completion. Compared with alternatives, reviewers rated it easier to use, set up, and administer, and said they would be more likely to recommend it. The main knock is a release cadence some reviewers describe as moderate next to faster moving rivals. [Read the reviews on G2](https://www.g2.com/products/dbforge-studio-for-sql-server-2018-12-04/reviews).
 
 ## 2. VS Code with the MSSQL Extension: The Official Replacement for Azure Data Studio
 
@@ -74,12 +70,6 @@ The replacement is Visual Studio Code with the MSSQL extension, and the migratio
 * Azure SQL Database provisioning from inside the editor, including a free tier
 * An enhanced results grid and configurable command shortcuts
 * Support for SQL Server on premises, in any cloud, Azure SQL Database, and Azure SQL Data Warehouse
-
-G2 does not track the MSSQL extension as its own listing, so the numbers below cover Visual Studio Code as a whole, which is still where you will spend most of your time.
-
-#### What G2 reviewers say
-
-Visual Studio Code carries a 4.7/5 rating across more than 2,400 reviews on G2. Reviewers praise the lightweight footprint, the extension ecosystem, the clean interface, and built in Git support. The most common complaint is that performance drops once too many extensions are installed at once, which is worth watching if you load the editor up with database, AI, and language tooling side by side. [Read the reviews on G2](https://www.g2.com/products/visual-studio-code/reviews).
 
 ## 3. Redgate SQL Toolbelt: The Enterprise Grade Tool Suite
 
@@ -103,10 +93,6 @@ Together they cover:
 
 It comes at a premium price point, but for teams that already standardize on SSMS plugins, the extensive feature set can justify the cost.
 
-#### What G2 reviewers say
-
-SQL Toolbelt Essentials holds a 4.7/5 rating from 26 reviews on G2. Reviewers highlight SQL Compare and SQL Data Compare for syncing schemas and data between environments, SQL Prompt for formatting, SQL Search for finding objects fast, and SQL Source Control for committing schema changes to Git. On the downside, reviewers describe the suite as resource heavy, note that performance can slow after prolonged use alongside SSMS, and flag that upgrading SSMS to a new major version can require uninstalling and reinstalling every Redgate tool. [Read the reviews on G2](https://www.g2.com/products/sql-toolbelt-essentials/reviews).
-
 ## 4. DBeaver: The Multi Database IDE
 
 ![DBeaver logo]()
@@ -121,10 +107,6 @@ DBeaver's free Community edition already covers SQL Server plus more than 100 ot
 * Ultimate builds on Enterprise with cloud database management and Kafka streaming support, and is licensed for individual use.
 
 It is a practical option for anyone who needs to work across SQL Server and several other database platforms without switching tools.
-
-#### What G2 reviewers say
-
-DBeaver sits at 4.4/5 from 162 reviews on G2. Reviewers call out the multi database support, intuitive design, environment based connections, and export options as standout strengths, especially for IT teams and analysts who touch several engines. On the other side, reviewers report sluggish performance and occasional UI freezes on large datasets, a steep learning curve around SSH and jump server setup, and slower support response times on the free tier. [Read the reviews on G2](https://www.g2.com/products/dbeaver/reviews).
 
 ## 5. Navicat for SQL Server: User Friendly GUI With Advanced Features
 
@@ -141,10 +123,6 @@ Navicat for SQL Server takes a graphical first approach to database management. 
 * SQL Preview, SSH tunneling, and a built in hex and BLOB viewer
 
 Its intuitive interface makes it approachable for beginners while still giving experienced admins the depth they need. The tradeoffs: there is no native Linux build, so Linux users run it through Wine, and it cannot connect to DB2 on AS/400.
-
-#### What G2 reviewers say
-
-Navicat Premium, the closest match on G2 to the SQL Server edition, carries a 4.4/5 rating from 53 reviews. Reviewers praise the attractive, intuitive interface and how much time it saves on backups and migrations across multiple databases. The most cited downsides are the lack of a native Linux client and an entry price, around $1,599 for a one time Navicat Premium license, that can be a stretch for smaller budgets. [Read the reviews on G2](https://www.g2.com/products/navicat-premium/reviews).
 
 ## 6. DataGrip: JetBrains' Versatile Database IDE
 
@@ -163,10 +141,6 @@ DataGrip is JetBrains' dedicated database IDE, and it shares the same completion
 
 Its adaptability makes it a strong choice for teams already working across multiple database systems.
 
-#### What G2 reviewers say
-
-DataGrip rates 4.6/5 from 126 reviews on G2. Reviewers repeatedly call out the autocomplete, the ease of connecting to multiple databases at once, and the DDL preview on hover as daily time savers. The recurring criticism is price relative to usage; several reviewers say the subscription is hard to justify unless you use it every day, and note it is memory hungry like other JetBrains products, with occasional stability issues after updates. [Read the reviews on G2](https://www.g2.com/products/datagrip/reviews).
-
 ## 7. Toad for SQL Server: A GUI Alternative With a New AI Assistant
 
 ![Toad logo]()
@@ -182,10 +156,6 @@ Toad remains a long standing name in database tooling, and Quest continues to ac
 * Data compare and import/export tools
 
 It is a solid fit for teams already standardized on Toad or migrating over from Toad for Oracle, though it has not evolved its core UI as quickly as some newer competitors.
-
-#### What G2 reviewers say
-
-Toad for SQL Server does not have an actively maintained G2 listing of its own; the general Toad product page on G2 has not seen a fresh review since 2019, so treat any rating tied to it with caution. The closest useful signal comes from sibling Quest products: Toad Edge sits at 4.5/5 and Toad for Oracle at 4.4/5. Across the Toad line, reviewers like the consistent interface, SQL Recall, code snippets, and strong SQL formatting, and dislike the RAM usage and a feature set that can overwhelm new users without training.
 
 ## Takeaways
 
