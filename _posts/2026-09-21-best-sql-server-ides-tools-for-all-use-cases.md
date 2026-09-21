@@ -20,23 +20,22 @@ This update walks through the seven tools worth your time in 2026, whatever your
 | Logo | Tool | Best for | Platforms | Pricing | Free option |
 |---|---|---|---|---|---|
 |![](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/1dbforge-sql-studio.png) | dbForge Studio for SQL Server | End to end development, DBA work, and DevOps automation in one IDE | Windows (macOS, Linux via CrossOver or Wine) | Standard $229.95/yr, Professional $349.95/yr, Enterprise $479.95/yr; perpetual licenses also available | Free Express edition, plus a 30 day trial of paid editions |
-|![]() | VS Code with the MSSQL extension | Lightweight, cross platform querying, replacing Azure Data Studio | Windows, macOS, Linux | Free | Free |
-|![]() | Redgate SQL Toolbelt | Enterprise schema and data comparison plus deployment pipelines | Windows (SSMS plugin) | SQL Toolbelt Essentials from about $1,495/user/yr; full Toolbelt from about $3,665 | 14 day trial |
+|![](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/vs-code-100x100.png) | VS Code with the MSSQL extension | Lightweight, cross platform querying, replacing Azure Data Studio | Windows, macOS, Linux | Free | Free |
+|![](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/redgate-100x100.png) | Redgate SQL Toolbelt | Enterprise schema and data comparison plus deployment pipelines | Windows (SSMS plugin) | SQL Toolbelt Essentials from about $1,495/user/yr; full Toolbelt from about $3,665 | 14 day trial |
 |![](https://github.com/DBAJamey/awesome-database-tools/blob/main/assets/images/dbeaver-logo.png?raw=true) | DBeaver | Managing SQL Server alongside many other database engines in one client | Windows, macOS, Linux | Community free; Lite $113/user/yr; Enterprise and Ultimate up to $510/user/yr | Free Community edition |
-|![]() | Navicat for SQL Server | Visual, GUI first database design and administration | Windows, macOS (Linux via Wine) | Navicat Premium (multi database) from about $1,599 one time; the SQL Server only edition costs less | Free trial |
+|![](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/navicat-sql-100x100.png) | Navicat for SQL Server | Visual, GUI first database design and administration | Windows, macOS (Linux via Wine) | Navicat Premium (multi database) from about $1,599 one time; the SQL Server only edition costs less | Free trial |
 |![](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/datagrip--logo.png) | DataGrip | Polyglot developers already living inside JetBrains IDEs | Windows, macOS, Linux | About $109/yr individual, about $259/user/yr for organizations, free for non commercial use | 30 day trial, free non commercial license |
-|![]() | Toad for SQL Server | DBAs who want a familiar GUI plus a built in AI assistant | Windows | Contact Quest for pricing | Free trial |
+|![](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/toad-100x100.png) | Toad for SQL Server | DBAs who want a familiar GUI plus a built in AI assistant | Windows | Contact Quest for pricing | Free trial |
 
 Now let's look at each one in detail.
 
 ## 1. dbForge Studio for SQL Server: The All in One IDE That Feels Like a Superpower
 
-![dbForge Studio for SQL Server logo]()
+![dbForge Studio for SQL Server logo](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbforge-sql-server-100x100.png)
 
 Imagine SSMS got a glow up, hired an automation assistant, and learned to write clean code in your house style. That is dbForge Studio for SQL Server. Refreshed in August 2026, it combines deep SQL functionality with a modern interface and integrations built for entire teams, not just individual developers.
 
-![dbForge Studio for SQL Server schema comparison window showing a side by side diff between a development and a production SQL Server database with the sync script preview open]()
-*Screenshot reference: [dbForge Studio for SQL Server features page](https://www.devart.com/dbforge/sql/studio/features.html)*
+![dbForge Studio for SQL Server schema comparison window showing a side by side diff between a development and a production SQL Server database with the sync script preview open](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbforge-sql-schema-compare-big.png)
 
 Whether you are developing, analyzing, or managing databases, this one tool covers:
 
@@ -55,12 +54,11 @@ If your stack covers more than SQL Server, look at dbForge Edge instead. It wrap
 
 ## 2. VS Code with the MSSQL Extension: The Official Replacement for Azure Data Studio
 
-![Visual Studio Code logo]()
-
-![Visual Studio Code with the MSSQL extension showing the Object Explorer connected to an Azure SQL database, a T-SQL query editor with IntelliSense suggestions, and the Schema Designer panel powered by GitHub Copilot]()
-*Screenshot reference: [Transact-SQL in Visual Studio Code, Microsoft Docs](https://code.visualstudio.com/docs/languages/tsql)*
+![Visual Studio Code logo](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/vs-code-100x100.png)
 
 This entry changed the most since the original list went up. Microsoft announced Azure Data Studio's retirement on February 6, 2025, and the tool stopped receiving updates and security fixes on February 28, 2026. Existing installs still open, but running production work on an unpatched tool is a bad idea, since newly discovered vulnerabilities will not be fixed.
+
+![Visual Studio Code with the MSSQL extension showing the Object Explorer connected to an Azure SQL database, a T-SQL query editor with IntelliSense suggestions, and the Schema Designer panel powered by GitHub Copilot](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/mssql-extension-vscode.png)
 
 The replacement is Visual Studio Code with the MSSQL extension, and the migration is close to painless: existing queries, scripts, and database projects work without conversion. Through 2026 the extension picked up features that go beyond what Azure Data Studio ever offered:
 
@@ -73,12 +71,13 @@ The replacement is Visual Studio Code with the MSSQL extension, and the migratio
 
 ## 3. Redgate SQL Toolbelt: The Enterprise Grade Tool Suite
 
-![Redgate logo]()
+![Redgate logo](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/redgate-100x100.png)
 
-![Redgate SQL Compare window showing a schema comparison grid between two SQL Server databases with the differing objects highlighted in the results pane]()
-*Screenshot reference: [SQL Toolbelt Essentials, Redgate Software](https://www.red-gate.com/products/sql-toolbelt-essentials/)*
+Redgate's bundle is aimed at larger organizations with complex database estates, and more than 200,000 companies, including 92% of the Fortune 100, run on it according to Redgate. 
 
-Redgate's bundle is aimed at larger organizations with complex database estates, and more than 200,000 companies, including 92% of the Fortune 100, run on it according to Redgate. In 2026 the lineup splits into two tiers:
+![Redgate SQL Compare window showing a schema comparison grid between two SQL Server databases with the differing objects highlighted in the results pane](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/make-deployments-faster.png)
+
+In 2026 the lineup splits into two tiers:
 
 * SQL Toolbelt Essentials bundles SQL Compare, SQL Data Compare, SQL Prompt, SQL Source Control, and SQL Search for around $1,495 per user per year.
 * The full SQL Toolbelt adds SQL Monitor, SQL Backup Pro, SQL Multi Script Unlimited, and several more utilities across 13 tools total, starting at roughly $3,665.
@@ -95,12 +94,13 @@ It comes at a premium price point, but for teams that already standardize on SSM
 
 ## 4. DBeaver: The Multi Database IDE
 
-![DBeaver logo]()
+![DBeaver logo](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbeaver-100x100.png)
 
-![DBeaver Enterprise Edition window showing an ER diagram of a SQL Server database next to an open SQL editor tab and a results grid]()
-*Screenshot reference: [DBeaver edition comparison](https://dbeaver.com/edition/)*
+DBeaver's free Community edition already covers SQL Server plus more than 100 other engines through JDBC, with an SQL editor, a data editor with filtering, ER diagrams, and SSH tunneling built in. 
 
-DBeaver's free Community edition already covers SQL Server plus more than 100 other engines through JDBC, with an SQL editor, a data editor with filtering, ER diagrams, and SSH tunneling built in. The paid tiers extend that:
+![DBeaver Enterprise Edition window showing an ER diagram of a SQL Server database next to an open SQL editor tab and a results grid](github.com/DBAJamey/awesome-database-tools/blob/main/assets/images/dbeaver-entity-relation-diagrams-overview.png?raw=true)
+
+The paid tiers extend that:
 
 * Lite ($113/user/year) adds NoSQL support, a visual query builder, AI features, and SSO.
 * Enterprise adds administration dashboards, task scheduling, and a broader driver set for teams managing databases at scale.
@@ -110,12 +110,13 @@ It is a practical option for anyone who needs to work across SQL Server and seve
 
 ## 5. Navicat for SQL Server: User Friendly GUI With Advanced Features
 
-![Navicat logo]()
+![Navicat logo](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/navicat-sql-100x100.png)
 
-![Navicat for SQL Server visual query builder showing a drag and drop join between two tables with the generated T-SQL displayed in the panel below]()
-*Screenshot reference: [Navicat for SQL Server product page](https://www.navicat.com/en/products/navicat-for-sqlserver)*
+Navicat for SQL Server takes a graphical first approach to database management. 
 
-Navicat for SQL Server takes a graphical first approach to database management. The latest builds, updated as of April 2026, add cloud sync for connections, queries, snippets, and model workspaces on top of the existing feature set:
+![Navicat for SQL Server visual query builder showing a drag and drop join between two tables with the generated T-SQL displayed in the panel below](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/Screenshot_Navicat_SQL_server_Mac_Modeling.png)
+
+The latest builds, updated as of April 2026, add cloud sync for connections, queries, snippets, and model workspaces on top of the existing feature set:
 
 * Visual query builder and data modeling tools
 * Data and structure synchronization
@@ -126,12 +127,13 @@ Its intuitive interface makes it approachable for beginners while still giving e
 
 ## 6. DataGrip: JetBrains' Versatile Database IDE
 
-![JetBrains DataGrip logo]()
+![JetBrains DataGrip logo](https://github.com/DBAJamey/awesome-database-tools/blob/main/assets/images/datagrip-100x100.png?raw=true)
 
-![JetBrains DataGrip window with the database explorer tree on the left, a T-SQL console in the center showing inline code completion, and a DDL preview tooltip over a table name]()
-*Screenshot reference: [DataGrip product page, JetBrains](https://www.jetbrains.com/datagrip/)*
+DataGrip is JetBrains' dedicated database IDE, and it shares the same completion engine and interface conventions as IntelliJ based tools. In 2026, commercial pricing runs about $109 per year for individuals and about $259 per user per year for organizations, with a 30 day trial and a free license for non commercial use. 
 
-DataGrip is JetBrains' dedicated database IDE, and it shares the same completion engine and interface conventions as IntelliJ based tools. In 2026, commercial pricing runs about $109 per year for individuals and about $259 per user per year for organizations, with a 30 day trial and a free license for non commercial use. Highlights:
+![JetBrains DataGrip window with the database explorer tree on the left, a T-SQL console in the center showing inline code completion, and a DDL preview tooltip over a table name](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/code-completion-DLJQbUQT.webp)
+
+Highlights:
 
 * Context aware code completion and real time error detection
 * Connections to SQL Server and dozens of other databases from one interface
@@ -143,12 +145,13 @@ Its adaptability makes it a strong choice for teams already working across multi
 
 ## 7. Toad for SQL Server: A GUI Alternative With a New AI Assistant
 
-![Toad logo]()
+![Toad logo](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/toad-100x100.png)
 
-![Toad for SQL Server editor window showing a T-SQL script with syntax highlighting next to the Toad Chat AI assistant panel introduced in 2026]()
-*Screenshot reference: [Toad for SQL Server, Quest Software](https://www.quest.com/products/toad-for-sql-server)*
+Toad remains a long standing name in database tooling, and Quest continues to actively update the SQL Server edition through 2026. The headline addition is Toad Chat, an AI assistant now built directly into Toad for SQL Server, Toad Data Point, and Toad Data Studio. 
 
-Toad remains a long standing name in database tooling, and Quest continues to actively update the SQL Server edition through 2026. The headline addition is Toad Chat, an AI assistant now built directly into Toad for SQL Server, Toad Data Point, and Toad Data Studio. Core capabilities:
+![Toad for SQL Server editor window showing a T-SQL script with syntax highlighting next to the Toad Chat AI assistant panel introduced in 2026](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/Toad-for-SQL-Server-screenshot-1.png)
+
+Core capabilities:
 
 * Query editor with syntax checking and formatting
 * Toad Chat for AI assisted query help
