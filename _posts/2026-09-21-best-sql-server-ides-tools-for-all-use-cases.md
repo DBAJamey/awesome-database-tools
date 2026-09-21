@@ -98,7 +98,7 @@ It comes at a premium price point, but for teams that already standardize on SSM
 
 DBeaver's free Community edition already covers SQL Server plus more than 100 other engines through JDBC, with an SQL editor, a data editor with filtering, ER diagrams, and SSH tunneling built in. 
 
-![DBeaver Enterprise Edition window showing an ER diagram of a SQL Server database next to an open SQL editor tab and a results grid](github.com/DBAJamey/awesome-database-tools/blob/main/assets/images/dbeaver-entity-relation-diagrams-overview.png?raw=true)
+![DBeaver Enterprise Edition window showing an ER diagram of a SQL Server database next to an open SQL editor tab and a results grid](https://raw.githubusercontent.com/DBAJamey/awesome-database-tools/refs/heads/main/assets/images/dbeaver-entity-relation-diagrams-overview.png)
 
 The paid tiers extend that:
 
