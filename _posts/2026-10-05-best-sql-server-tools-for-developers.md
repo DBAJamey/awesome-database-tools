@@ -127,4 +127,4 @@ No. Microsoft provides T-SQL debugging in SQL Server Data Tools for Visual Studi
 
 ---
 
-Originally published on [medium.com](https://medium.com/@jameybarton9/best-productivity-tools-for-sql-server-management-studio-ssms-071ccf05a062) June 12, 2025. Updated October 2026 with current features, pricing, and product status.
+Originally published on [medium.com](https://medium.com/@jameybarton9/best-sql-server-tools-for-developers-cdfd18eea8b5) June 12, 2025. Updated October 2026 with current features, pricing, and product status.
