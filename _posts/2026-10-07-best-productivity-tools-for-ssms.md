@@ -6,7 +6,9 @@ date: 2026-10-07
 published: false
 ---
 
-**Short answer:** For coding help inside SSMS, dbForge SQL Tools with SQL Complete covers the most ground: code completion, formatting, an AI Assistant, schema and data compare, and version control. Redgate SQL Prompt is the main alternative for code completion and formatting, and SSMSBoost adds session and history tools with a free Community Edition.
+**Short answer:** For coding help inside SSMS, dbForge SQL Tools with dbForge SQL Complete covers the most ground: code completion, formatting, an AI Assistant, schema and data compare, and version control. Redgate SQL Prompt is the main alternative for code completion and formatting, and SSMSBoost adds session and history tools with a free Community Edition.
+
+---
 
 ## What are the must-have tools for SSMS?
 
