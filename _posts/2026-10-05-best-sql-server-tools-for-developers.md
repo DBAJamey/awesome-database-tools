@@ -124,3 +124,7 @@ No. Microsoft retired Azure Data Studio on February 28, 2026. It no longer recei
 
 **Does SSMS have a T-SQL debugger?**
 No. Microsoft provides T-SQL debugging in SQL Server Data Tools for Visual Studio. Among the tools in this list, dbForge Studio for SQL Server and Toad for SQL Server include a debugger.
+
+---
+
+Originally published on [medium.com](https://medium.com/@jameybarton9/best-productivity-tools-for-sql-server-management-studio-ssms-071ccf05a062) June 12, 2025. Updated October 2026 with current features, pricing, and product status.
