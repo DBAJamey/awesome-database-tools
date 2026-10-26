@@ -29,7 +29,7 @@ But what are the must-have tools for SSMS? Generally, these tools focus on enhan
 * Schema and data comparison and synchronization tools
 * SQL code analysis and SQL Server event profiling
 * Version control functionality
-* dbForge AI Assistant built into SQL Complete to generate, explain, and optimize SQL
+* dbForge AI Assistant integrated into dbForge SQL Complete for generating, explaining, and optimizing SQL
 * Support for SSMS 22 and Visual Studio 2026
 
 Although it’s commercial software, you can try dbForge SQL Tools with a 30-day free trial. Download it from the [official Devart website](https://www.devart.com/dbforge/sql/sql-tools/download.html) and feel the difference. SQL Complete also has a free Express Edition.
