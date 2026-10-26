@@ -3,7 +3,6 @@ layout: default
 title: "Best Productivity Tools for SQL Server Management Studio (SSMS) in 2026"
 description: "The best productivity tools for SSMS in 2026: dbForge SQL Tools with SQL Complete, Redgate SQL Prompt, ApexSQL Refactor, and SSMSBoost."
 date: 2026-10-07
-published: false
 ---
 
 **Short answer:** For coding help inside SSMS, dbForge SQL Tools with dbForge SQL Complete covers the most ground: code completion, formatting, an AI Assistant, schema and data compare, and version control. Redgate SQL Prompt is the main alternative for code completion and formatting, and SSMSBoost adds session and history tools with a free Community Edition.
