@@ -2,7 +2,7 @@
 layout: default
 title: "Top 5 Tools to Finally Meet Your SQL Coding Deadlines (Without Working Nights)"
 description: "5 tools to speed up SQL coding in SSMS: dbForge SQL Complete, Redgate SQL Prompt, ApexSQL Complete, SSMSBoost, and dbForge Studio for SQL Server."
-date: 2026-10-11
+date: 2026-10-23
 published: false
 ---
 
