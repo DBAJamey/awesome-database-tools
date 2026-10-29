@@ -11,7 +11,7 @@ date: 2026-10-07
 
 ## What are the must-have tools for SSMS?
 
-SQL Server Management Studio (SSMS) is the primary environment used by database administrators and developers to manage SQL Server databases. SSMS provides essential features, and SSMS 22 added GitHub Copilot, a SQL formatter, and Schema Compare in 2026. It still lacks some advanced productivity capabilities that third-party tools can offer. To improve efficiency, reduce errors, and simplify complex tasks, many professionals rely on specialized extensions and add-ons.
+SQL Server Management Studio (SSMS) is the primary environment used by database administrators and developers to manage SQL Server databases. SSMS provides essential features, and SSMS 22 made GitHub Copilot, a SQL formatter, and Schema Compare generally available in 2026. It still lacks some advanced productivity capabilities that third-party tools can offer. To improve efficiency, reduce errors, and simplify complex tasks, many professionals rely on specialized extensions and add-ons.
 
 But what are the must-have tools for SSMS? Generally, these tools focus on enhancing SQL coding, automating routine processes, improving code readability, and providing deeper insights into database structure and performance.
 

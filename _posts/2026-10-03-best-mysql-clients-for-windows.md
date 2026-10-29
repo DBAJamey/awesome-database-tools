@@ -48,23 +48,23 @@ Short on time? The table gives you the whole picture in 30 seconds. Or skip stra
 
 ## MySQL clients for Windows compared: the 2026 table
 
-Prices as listed on each vendor's website on October 23, 2026.
+Prices as listed on each vendor's website in October 2026.
 
 | Feature | dbForge Studio for MySQL | MySQL Workbench | DBeaver | HeidiSQL | Navicat for MySQL |
 |---|---|---|---|---|---|
-| Price | Free Express Edition; paid from $9.95/month | Free, open source | Free Community; PRO from $113/year | Free, open source | From $20.99/month (Standard) |
-| Free trial of paid features | 30 days | No paid edition | 14 days | No paid edition | 14 days |
+| Price | Free Express Edition; paid from $9.95/month | Free, open source | Free Community; PRO from $113/year | Free, open source | Paid only; prices vary by region |
+| Free trial of paid features | 30 days | No trial; commercial edition with paid MySQL subscriptions | 14 days | No paid edition | 14 days |
 | Platforms | Windows; Linux and macOS via CrossOver, Wine or Parallels | Windows, macOS, Linux | Windows, macOS, Linux | Windows, Linux, macOS | Windows, macOS, Linux |
 | Code completion and formatting | Yes | Yes | Yes | Yes | Yes |
 | Visual query builder | Yes | No | PRO | No | Yes |
 | ER diagrams and database design | Yes | Not in the new version | View in Community, edit in Enterprise and Ultimate | No | ER view; full modeling in Enterprise |
-| Execution plan and profiling | Query Profiler (Standard and up) | Visual Explain, performance reports | Execution plan | Query profile (SHOW PROFILE) | Visual Explain |
+| Execution plan and profiling | Query Profiler (Standard and up) | Visual Explain, performance reports | Execution plan | EXPLAIN; query profile (SHOW PROFILE) | Visual Explain |
 | MySQL stored procedure debugger | Yes (Standard and up) | No | No | No | No |
-| Schema compare and sync | Yes (Professional and up) | Not in the new version | Enterprise and Ultimate | No | Yes |
+| Schema compare and sync | Yes (Professional and up) | Not in the new version | Structure compare report in Community; sync in Enterprise, Ultimate, and Team | No | Yes |
 | Data compare and sync | Yes (Professional and up) | No | Enterprise and Ultimate | No | Yes |
 | Git and version control | Yes (Enterprise) | No | Built in from Enterprise; extension in Community | No | Not listed; team sync via Navicat Cloud |
 | AI assistant | dbForge AI Assistant, free plan included | No | OpenAI or GitHub Copilot in Community; more providers in PRO | No | AI Chat and Ask AI with your own AI provider |
-| Automation | CLI (Professional and up) | No scheduler; MySQL Shell for CLI work | Task scheduler (Enterprise and Ultimate) | No | Scheduled batch jobs |
+| Automation | CLI (Professional and up) | Backup scheduling with MySQL Enterprise Backup; MySQL Shell for CLI work | Task scheduler (Enterprise and Ultimate) | No | Scheduled batch jobs |
 | MariaDB | Yes, up to MariaDB 13 | Not officially supported | Yes | Yes | Yes |
 
 ## 1. dbForge Studio for MySQL: the "finally, everything just works" IDE
@@ -87,7 +87,7 @@ If you write SQL daily, debug often, and care about performance, dbForge Studio 
 * **Routine maintenance.** Backup and restore, users and privileges in Security Manager, Session Manager, and table maintenance in a few clicks.
 * **Automation.** Run schema and data comparison, import and export, backup, and reports from the command line.
 
-**Productivity:** Devart reports up to 4x higher SQL coding productivity with these tools. If you lose an hour a day to slow queries and manual diffs, that's the math worth doing.
+**Productivity:** Devart says the SQL editor helps you write SQL code up to 4 times faster. If you write SQL every day, that's the math worth doing.
 
 **The catch?**
 
@@ -110,7 +110,7 @@ In September 2026, Oracle released a new MySQL Workbench, rebuilt on top of MySQ
 * SQL editor with code completion, new SQL Notebooks, and a built-in SQL formatter
 * Redesigned Visual Explain and performance reports for slow queries, memory, and database size
 * User and grants management, plus a client connection browser that shows locks
-* Support for MySQL 8.4 LTS, 9.7 LTS, 26.7, and the innovation releases in between
+* Support for MySQL 8.4 LTS and newer, including 9.7 LTS and the 26.x releases
 
 **But here's the issue:**
 
@@ -137,10 +137,10 @@ That breadth is its strength. The MySQL power tools sit in the paid PRO editions
 
 **Cons:**
 
-* Visual query builder needs PRO. Schema compare, data compare, ER diagram editing, built-in Git, and the task scheduler need Enterprise or Ultimate
+* Visual query builder needs PRO. Schema compare, data compare, ER diagram editing, built-in Git, and the task scheduler need Enterprise, Ultimate, or Team
 * No MySQL debugger: the PRO SQL debugger covers PostgreSQL only
-* No MySQL profiler or index advice beyond the execution plan
-* PRO is an annual subscription: $113 per year for Lite, $255 for Enterprise, and $510 for Ultimate
+* No MySQL profiler; index advice comes only from the execution plan and AI Chat
+* PRO is a monthly or annual subscription, from $113 per year for Lite
 
 Great for generalists. MySQL-focused devs will likely need a PRO license for compare and design work.
 
@@ -154,7 +154,7 @@ If you need to spin up a quick test, run some queries, or edit data, it delivers
 
 * Code completion and a built-in SQL reformatter
 * Designers for tables, views, routines, triggers, and events
-* Query profiling based on SHOW PROFILE, plus a process monitor
+* EXPLAIN, query profiling based on SHOW PROFILE, and a process monitor
 * User and privilege management, SQL dumps, and export to CSV, JSON, Markdown, and more
 * Support for MySQL, MariaDB, SQL Server, PostgreSQL, SQLite, and Interbase/Firebird
 
@@ -182,7 +182,7 @@ Super slick UI, and a fresh major release in September 2026.
 
 **But here's the catch:**
 
-* No free edition. Standard costs $20.99 per month and Enterprise $27.99 per month, with a 14-day trial
+* No free edition of Navicat for MySQL, prices vary by region, and there is a 14-day trial. The free Navicat Premium Lite covers basic work
 * Full data modeling with forward and reverse engineering is Enterprise only
 * No MySQL debugger and no Git integration listed
 * AI features need your own AI provider account
@@ -194,7 +194,7 @@ For hands-on devs who want debugging and version control in the same tool, there
 
 * **Coding help, profiling, debugging, compare, and version control in one Windows IDE:** dbForge Studio for MySQL.
 * **Oracle's free official tool for a MySQL 8.4 or newer server:** MySQL Workbench.
-* **Many database engines and an open-source core:** DBeaver Community, with PRO for compare tools.
+* **Many database engines and an open-source core:** DBeaver Community, with Enterprise or Ultimate for compare tools.
 * **A free, lightweight client for quick queries and edits:** HeidiSQL.
 * **The same commercial tool on Windows, macOS, and Linux:** Navicat for MySQL.
 

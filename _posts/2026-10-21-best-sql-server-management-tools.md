@@ -11,7 +11,7 @@ For engineering leaders who want one SQL Server toolkit for coding, version cont
 
 ## What are the must-have tools for SSMS?
 
-For engineering leaders and IT decision-makers, SQL Server Management Studio (SSMS) is more than just a development environment: it’s a strategic asset. The capabilities of SSMS alone are often not enough to meet the demands of today’s data-driven, high-performance teams. SSMS 22 added GitHub Copilot, Schema Compare, and a SQL formatter in 2026. It still doesn't include data compare or a T-SQL debugger.
+For engineering leaders and IT decision-makers, SQL Server Management Studio (SSMS) is more than just a development environment: it’s a strategic asset. The capabilities of SSMS alone are often not enough to meet the demands of today’s data-driven, high-performance teams. SSMS 22 made GitHub Copilot, Schema Compare, and a SQL formatter generally available in 2026. It still doesn't include data compare or a T-SQL debugger.
 
 To ensure fast development, low-risk deployment, and efficient collaboration, teams need more than just the basics. The must-have tools for SSMS are those that enable automation, accelerate workflows, and support best practices across development, testing, and operations, all while ensuring maintainability and compliance.
 
@@ -21,10 +21,10 @@ This is where all-in-one SQL Server management toolkits come in. These suites en
 
 | Toolkit | Best for | What it includes | AI | Starting price | Status in 2026 |
 |---|---|---|---|---|---|
-| dbForge SQL Tools | Development teams that want one bundle for coding, compare, testing, and deployment | 15 SSMS add-ins and standalone apps, including SQL Complete, Schema Compare, Data Compare, Source Control, Data Generator, Unit Test, and Documenter | dbForge AI Assistant in SQL Complete and other tools | $469.95/year; 30-day free trial | Actively developed |
+| dbForge SQL Tools | Development teams that want one bundle for coding, compare, testing, and deployment | 15 SSMS add-ins and standalone apps, including SQL Complete, Schema Compare, Data Compare, Source Control, Data Generator, Unit Test, and Documenter | dbForge AI Assistant in SQL Complete and other tools | From $469.95/year; 30-day free trial | Actively developed |
 | Redgate SQL Toolbelt Essentials | Teams that want Redgate add-ins for version control, comparison, and testing | 11 tools, including SQL Prompt, SQL Compare, SQL Data Compare, SQL Source Control, and SQL Test | AI features in SQL Prompt | $1,410 per user per year; 14-day free trial | Full SQL Toolbelt available only to existing license holders; Redgate Monitor and Flyway sold separately |
 | ApexSQL | Teams already using ApexSQL | ApexSQL Source Control, ApexSQL Doc, and ApexSQL DevOps Toolkit | Not listed | From $408 per user per year | Most tools reached end of life; Quest names Toad for SQL Server as the replacement |
-| IDERA SQL Management Suite | DBAs focused on performance, security, and compliance | SQL Diagnostic Manager Pro, SQL Defrag Manager, SQL Compliance Manager, SQL Secure, and SQL Safe Backup | Not listed | Price on request; 40% less than buying the tools separately | Available |
+| IDERA SQL Management Suite | DBAs focused on performance, security, and compliance | SQL Diagnostic Manager Pro, SQL Defrag Manager, SQL Compliance Manager, SQL Secure, and SQL Safe Backup | AI-assisted query optimization in SQL Diagnostic Manager | Price on request; up to 40% less than buying the tools separately | Available |
 
 ### 1. dbForge SQL Tools
 
@@ -65,15 +65,15 @@ Redgate now sells SQL Toolbelt Essentials to new customers, and the full SQL Too
 
 **Best for:** Teams already using ApexSQL for source control, documentation, or DevOps tasks
 
-Quest, which acquired ApexSQL in 2019, started the end-of-life process for most ApexSQL tools, including ApexSQL Complete, Refactor, Diff, and Data Diff, and names Toad for SQL Server Professional as their replacement. ApexSQL Source Control, ApexSQL Doc, and ApexSQL DevOps Toolkit are still sold, in limited support.
+Quest, which acquired ApexSQL in 2019, moved most ApexSQL tools to end of life, including ApexSQL Complete, Refactor, Diff, and Data Diff, and names Toad for SQL Server Professional as their replacement. ApexSQL Source Control, ApexSQL Doc, and ApexSQL DevOps Toolkit are still sold, in limited support.
 
-The remaining ApexSQL tools work as SSMS and Visual Studio extensions.
+ApexSQL Source Control and ApexSQL Doc work as SSMS and Visual Studio add-ins, and ApexSQL DevOps Toolkit runs as a web dashboard and CI server plugins.
 
 **Key Capabilities:**
 
 * Version control for SQL Server databases (ApexSQL Source Control)
 * Database documentation (ApexSQL Doc)
-* Database builds from scripts or source control, code rule checks, and data import and export (ApexSQL DevOps Toolkit)
+* Database builds from scripts or source control, code rule checks, and schema and static data sync (ApexSQL DevOps Toolkit)
 * Test data generation and tSQLt unit testing (ApexSQL DevOps Toolkit)
 * Support for Visual Studio and SSMS environments
 
@@ -122,7 +122,7 @@ A bundle of tools, often SSMS add-ins, that covers coding, version control, comp
 dbForge SQL Tools covers the widest set of development tasks in one bundle: code completion and formatting with SQL Complete, schema and data compare, source control, test data generation, unit testing, and documentation, with dbForge AI Assistant built into several tools. Redgate SQL Toolbelt Essentials covers similar tasks at a higher price.
 
 **Is ApexSQL still supported?**
-Only partly. Quest started the end-of-life process for most ApexSQL tools and names Toad for SQL Server Professional as their replacement. ApexSQL Source Control, ApexSQL Doc, and ApexSQL DevOps Toolkit are still sold, in limited support.
+Only partly. Quest moved most ApexSQL tools to end of life and names Toad for SQL Server Professional as the replacement for the development tools. ApexSQL Source Control, ApexSQL Doc, and ApexSQL DevOps Toolkit are still sold, in limited support.
 
 **Is the full Redgate SQL Toolbelt still available?**
 Redgate sells SQL Toolbelt Essentials to new customers, and the full SQL Toolbelt remains available to existing license holders. Redgate Monitor and Flyway are separate products.
@@ -131,7 +131,7 @@ Redgate sells SQL Toolbelt Essentials to new customers, and the full SQL Toolbel
 IDERA SQL Management Suite bundles SQL Diagnostic Manager Pro, SQL Defrag Manager, SQL Compliance Manager, SQL Secure, and SQL Safe Backup for performance monitoring, auditing, security, and backup.
 
 **Does SSMS 22 replace these toolkits?**
-Not fully. SSMS 22 added GitHub Copilot, Schema Compare, and a SQL formatter in 2026. It still has no data compare or T-SQL debugger, and it doesn't generate test data or database documentation.
+Not fully. SSMS 22 made GitHub Copilot, Schema Compare, and a SQL formatter generally available in 2026. It still has no data compare or T-SQL debugger, and it doesn't generate test data or database documentation.
 
 ---
 

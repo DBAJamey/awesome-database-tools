@@ -38,7 +38,7 @@ SSMS is Microsoft’s official and free integrated environment for managing SQL 
 * Free and regularly updated by Microsoft
 * Full support for SQL Server features
 * Good integration with Azure services
-* Schema Compare, a SQL formatter, and GitHub Copilot built in since SSMS 22
+* Schema Compare, a SQL formatter, and GitHub Copilot, generally available in SSMS 22 since 2026
 
 **Cons:**
 
@@ -48,13 +48,13 @@ SSMS is Microsoft’s official and free integrated environment for managing SQL 
 
 If you need debugging, data compare, and test data in the same window, see how dbForge Studio for SQL Server works as an [SSMS alternative](https://www.devart.com/dbforge/sql/studio/alternative-to-ssms.html).
 
-## 3. Visual Studio Code with the MSSQL extension (formerly Azure Data Studio)
+## 3. Visual Studio Code with the MSSQL extension (replaces Azure Data Studio)
 
 Microsoft retired Azure Data Studio on February 28, 2026 and recommends Visual Studio Code with the MSSQL extension as its replacement. It is a free cross-platform tool for SQL Server, Azure SQL, and SQL database in Microsoft Fabric. It offers a modern UI and is tailored for developers who prefer working in a lightweight, code-focused environment.
 
 **Pros:**
 
-* Open-source and cross-platform
+* Open-source MSSQL extension, cross-platform
 * Built-in support for Git and notebooks
 * Extensible with marketplace extensions
 
@@ -80,7 +80,7 @@ Redgate’s SQL Toolbelt Essentials includes a suite of tools for SQL Server dev
 
 ## 5. ApexSQL
 
-ApexSQL, now owned by Quest, offered SQL Server tools for auditing, monitoring, data recovery, and development. Quest started the end-of-life process for most of them and names Toad for SQL Server as the replacement. ApexSQL Source Control, Doc, and DevOps Toolkit are still sold.
+ApexSQL, now owned by Quest, offered SQL Server tools for auditing, monitoring, data recovery, and development. Quest moved most of them to end of life and names Toad for SQL Server as the replacement for the development tools. ApexSQL Source Control, Doc, and DevOps Toolkit are still sold.
 
 **Pros:**
 
@@ -127,4 +127,4 @@ No. Microsoft provides T-SQL debugging in SQL Server Data Tools for Visual Studi
 
 ---
 
-Originally published on [medium.com](https://medium.com/@jameybarton9/best-sql-server-tools-for-developers-cdfd18eea8b5) June 12, 2025. Updated October 2026 with current features, pricing, and product status.
+Originally published on [medium.com](https://medium.com/@jameybarton9/best-sql-server-tools-for-developers-cdfd18eea8b5) June 4, 2025. Updated October 2026 with current features and product status.
