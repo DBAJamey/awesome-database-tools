@@ -15,7 +15,7 @@ For engineering leaders and IT decision-makers, SQL Server Management Studio (SS
 
 To ensure fast development, low-risk deployment, and efficient collaboration, teams need more than just the basics. The must-have tools for SSMS are those that enable automation, accelerate workflows, and support best practices across development, testing, and operations, all while ensuring maintainability and compliance.
 
-This is where all-in-one SQL Server management toolkits come in. These suites enhance SSMS with integrated [SQL development tools](https://www.devart.com/dbforge/sql/) that help teams code, test, deploy, and manage databases more efficiently. Below are the top solutions trusted by technical leaders and enterprise teams.
+This is where all-in-one SQL Server management toolkits come in. These suites enhance SSMS with integrated [SQL development tools](https://www.devart.com/dbforge/sql/sql-tools/) that help teams code, test, deploy, and manage databases more efficiently. Below are the top solutions trusted by technical leaders and enterprise teams.
 
 ## SQL Server management toolkits compared (October 2026)
 
@@ -30,7 +30,7 @@ This is where all-in-one SQL Server management toolkits come in. These suites en
 
 **Best for:** High-performance development teams who manage SQL Server databases and focus on productivity and delivery
 
-dbForge [SQL Tools](https://www.devart.com/dbforge/sql/sql-tools/) is a professional-grade suite that includes 15 tools, some of which are integrated directly into SSMS, and others are standalone apps. It enables end-to-end database development, testing, data management, and deployment within a single, consistent environment.
+dbForge SQL Tools is a professional-grade suite that includes 15 tools, some of which are integrated directly into SSMS, and others are standalone apps. It enables end-to-end database development, testing, data management, and deployment within a single, consistent environment.
 
 **Key Capabilities:**
 
